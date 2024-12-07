@@ -1,0 +1,6 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_surface_boundaries_1_1_settings_cmd_add_data_options =
+[
+    [ "BoundaryType", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_surface_boundaries_1_1_settings_cmd_add_data_options.html#a26c1157a759ed1964817c855ecee84ab", null ],
+    [ "MidOrdinateDistance", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_surface_boundaries_1_1_settings_cmd_add_data_options.html#a7faa99fef277c2a1676b2c102e84d80f", null ],
+    [ "NonDestructive", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_surface_boundaries_1_1_settings_cmd_add_data_options.html#aab6b51d3e98164bcc944229fa490fcbd", null ]
+];

@@ -1,0 +1,5 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_feature_lines_from_corridor =
+[
+    [ "SettingsCmdFeatureLineCreation", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_feature_lines_from_corridor_1_1_settings_cmd_feature_line_creation.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_feature_lines_from_corridor_1_1_settings_cmd_feature_line_creation" ],
+    [ "FeatureLineCreation", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_feature_lines_from_corridor.html#a4a654dd84309170a377477356376c754", null ]
+];

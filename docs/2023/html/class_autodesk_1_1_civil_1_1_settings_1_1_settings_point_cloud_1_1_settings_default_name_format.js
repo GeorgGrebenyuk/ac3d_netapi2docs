@@ -1,0 +1,4 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_point_cloud_1_1_settings_default_name_format =
+[
+    [ "PointCloudNameTemplate", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_point_cloud_1_1_settings_default_name_format.html#a9e3122b86a6c9c2b8c3a4f4ef73dd0b8", null ]
+];

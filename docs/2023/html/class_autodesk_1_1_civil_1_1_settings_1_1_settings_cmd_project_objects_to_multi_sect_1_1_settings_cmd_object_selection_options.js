@@ -1,0 +1,8 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_project_objects_to_multi_sect_1_1_settings_cmd_object_selection_options =
+[
+    [ "DistanceAfterCurrentSampleLine", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_project_objects_to_multi_sect_1_1_settings_cmd_object_selection_options.html#a3286c14f3374ccfa2c369a7fc1056e9a", null ],
+    [ "DistanceBeforeCurrentSampleLine", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_project_objects_to_multi_sect_1_1_settings_cmd_object_selection_options.html#ab8867f42040ec81e59902ddcef1e6420", null ],
+    [ "PercentageAfterCurrentSampleLine", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_project_objects_to_multi_sect_1_1_settings_cmd_object_selection_options.html#a4b418e246edcb060e87ba001e61c7841", null ],
+    [ "PercentageBeforeCurrentSampleLine", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_project_objects_to_multi_sect_1_1_settings_cmd_object_selection_options.html#ac852084c01a0bb01b662a9a5e8a88b83", null ],
+    [ "ProjecitonRuleType", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_project_objects_to_multi_sect_1_1_settings_cmd_object_selection_options.html#a704d14607036d83d534666c200041f2d", null ]
+];

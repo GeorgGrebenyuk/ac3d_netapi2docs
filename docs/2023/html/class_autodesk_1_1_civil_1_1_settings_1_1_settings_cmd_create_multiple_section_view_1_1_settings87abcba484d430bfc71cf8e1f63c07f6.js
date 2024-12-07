@@ -1,0 +1,6 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_multiple_section_view_1_1_settings87abcba484d430bfc71cf8e1f63c07f6 =
+[
+    [ "PlacementOption", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_multiple_section_view_1_1_settings87abcba484d430bfc71cf8e1f63c07f6.html#aa8bb437ef1f47f14e28189220cca72f9", null ],
+    [ "SectionViewHeight", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_multiple_section_view_1_1_settings87abcba484d430bfc71cf8e1f63c07f6.html#aa138cf09813b25c8bdb91cb40705d8da", null ],
+    [ "SpecifyMultipleSectionViewStationRange", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_multiple_section_view_1_1_settings87abcba484d430bfc71cf8e1f63c07f6.html#ac46bc45ab998eb90f6d82217ad9dd984", null ]
+];

@@ -1,0 +1,12 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_simple_corridor_1_1_settings_cmd_assembly_insertion =
+[
+    [ "CorridorRegionLockMode", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_simple_corridor_1_1_settings_cmd_assembly_insertion.html#ace88b1446e13a0ada98aeb6a214795ab", null ],
+    [ "FrequencyAlongCurves", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_simple_corridor_1_1_settings_cmd_assembly_insertion.html#af6cfd771a7d7d5f62d0766391bd5adba", null ],
+    [ "FrequencyAlongProfileCurves", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_simple_corridor_1_1_settings_cmd_assembly_insertion.html#afa923884bcfa56c14e9d37dfdc81d043", null ],
+    [ "FrequencyAlongSpirals", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_simple_corridor_1_1_settings_cmd_assembly_insertion.html#a6a534dd35840ad0e0f8f358b06310e7b", null ],
+    [ "FrequencyAlongTangents", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_simple_corridor_1_1_settings_cmd_assembly_insertion.html#adec40d66b17f0e77474ba4ba79d3c1b4", null ],
+    [ "HorizontalGeometryPoints", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_simple_corridor_1_1_settings_cmd_assembly_insertion.html#abb3778c7f284390258d1d1b99e0746fe", null ],
+    [ "ProfileGeometryPoints", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_simple_corridor_1_1_settings_cmd_assembly_insertion.html#a9fb99a5c9201f9cea3b26f350294567d", null ],
+    [ "ProfileHighLowPoints", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_simple_corridor_1_1_settings_cmd_assembly_insertion.html#a572556a9d9fc97053ea71e42a19f5487", null ],
+    [ "SuperelevationCriticalPoints", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_simple_corridor_1_1_settings_cmd_assembly_insertion.html#ac89ae5c2227c15c2288305739a6f23fa", null ]
+];

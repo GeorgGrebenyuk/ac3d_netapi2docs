@@ -1,0 +1,7 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_run_depth_check_1_1_settings_cmd_depth_check_option =
+[
+    [ "MaximumDepthOfCover", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_run_depth_check_1_1_settings_cmd_depth_check_option.html#abb3416c1a35268e6ef81f68e674fd7a5", null ],
+    [ "MinimumDepthOfCover", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_run_depth_check_1_1_settings_cmd_depth_check_option.html#a4b069338de0dad9f0e254a5abf354bc7", null ],
+    [ "UseMaxDepthOfCoverValidation", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_run_depth_check_1_1_settings_cmd_depth_check_option.html#ac54d43fec12c7006c4cb861f02b531a1", null ],
+    [ "UseMinDepthOfCoverValidation", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_run_depth_check_1_1_settings_cmd_depth_check_option.html#a91c244727ae13aefec7ee7bdea052046", null ]
+];

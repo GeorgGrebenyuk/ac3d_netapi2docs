@@ -1,0 +1,11 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parcel_by_layout =
+[
+    [ "SettingsCmdAutomaticLayout", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parcel_by_layout_1_1_settings_cmd_automatic_layout.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parcel_by_layout_1_1_settings_cmd_automatic_layout" ],
+    [ "SettingsCmdConvertFromEntities", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parcel_by_layout_1_1_settings_cmd_convert_from_entities.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parcel_by_layout_1_1_settings_cmd_convert_from_entities" ],
+    [ "SettingsCmdParcelSizing", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parcel_by_layout_1_1_settings_cmd_parcel_sizing.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parcel_by_layout_1_1_settings_cmd_parcel_sizing" ],
+    [ "SettingsCmdPreviewGraphics", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parcel_by_layout_1_1_settings_cmd_preview_graphics.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parcel_by_layout_1_1_settings_cmd_preview_graphics" ],
+    [ "AutomaticLayout", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parcel_by_layout.html#a12ac1a50537260dd1a09ff2a199ed49b", null ],
+    [ "ConvertFromEntities", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parcel_by_layout.html#a256d25ad70af30cd96ade58d02f77bef", null ],
+    [ "ParcelSizing", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parcel_by_layout.html#a60654ef9d2e21750326f199816da217a", null ],
+    [ "PreviewGraphics", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parcel_by_layout.html#aa494a780f19401b5af706a4f6beb2b5f", null ]
+];

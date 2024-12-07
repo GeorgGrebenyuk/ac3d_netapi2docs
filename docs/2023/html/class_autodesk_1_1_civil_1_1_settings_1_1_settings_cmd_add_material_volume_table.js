@@ -1,0 +1,5 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_material_volume_table =
+[
+    [ "SettingsCmdTableCreation", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_material_volume_table_1_1_settings_cmd_table_creation.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_material_volume_table_1_1_settings_cmd_table_creation" ],
+    [ "TableCreation", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_material_volume_table.html#a1f5e7215ea591a2395a203c95921aaf8", null ]
+];

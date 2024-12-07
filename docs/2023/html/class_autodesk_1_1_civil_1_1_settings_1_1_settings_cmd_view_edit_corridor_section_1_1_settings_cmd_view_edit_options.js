@@ -1,0 +1,11 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_view_edit_corridor_section_1_1_settings_cmd_view_edit_options =
+[
+    [ "ApplyViewportConfiguration", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_view_edit_corridor_section_1_1_settings_cmd_view_edit_options.html#ae1d846fab775fffdd7c88563557e66bd", null ],
+    [ "BackClip", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_view_edit_corridor_section_1_1_settings_cmd_view_edit_options.html#ac6b2270a012fe756e5b8cda36f9b2b04", null ],
+    [ "DefaultViewScale", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_view_edit_corridor_section_1_1_settings_cmd_view_edit_options.html#a80b5d265fa23cd4b9a309c2d639c5e83", null ],
+    [ "FrontClip", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_view_edit_corridor_section_1_1_settings_cmd_view_edit_options.html#a12b9432c793aeb2275a6d1797761ab94", null ],
+    [ "RebuildOnEdit", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_view_edit_corridor_section_1_1_settings_cmd_view_edit_options.html#aef9d97065651d3e3494aafd637169d47", null ],
+    [ "StationTrackerInMultipleViewports", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_view_edit_corridor_section_1_1_settings_cmd_view_edit_options.html#a1f2667314876c23da07a5e5f27cde4bd", null ],
+    [ "TurnOffUnassociatedLayers", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_view_edit_corridor_section_1_1_settings_cmd_view_edit_options.html#a41fe54354f1d659110e4f064140ba971", null ],
+    [ "UndefinedSectionWidth", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_view_edit_corridor_section_1_1_settings_cmd_view_edit_options.html#a2789a8faf42d2750175febdf91607211", null ]
+];

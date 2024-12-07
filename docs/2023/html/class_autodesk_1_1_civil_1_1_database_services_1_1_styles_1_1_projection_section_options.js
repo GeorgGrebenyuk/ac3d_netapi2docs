@@ -1,0 +1,28 @@
+var class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_projection_section_options =
+[
+    [ "AutoCAD3dPolylineCrossingMarkerStyleId", "class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_projection_section_options.html#aa723de15cc82e4aacf97ce02ede00bf1", null ],
+    [ "AutoCAD3dPolylineCrossingMarkerStyleName", "class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_projection_section_options.html#af6daf6341d4dbcaa5a88a5316fd5c495", null ],
+    [ "AutoCADBlockDisplayOptions", "class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_projection_section_options.html#a2eec38193855ccc7616b4f0c15f5aa3c", null ],
+    [ "AutoCADBlockMarkerStyleId", "class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_projection_section_options.html#aee5e43056cac754253a097448051d9b7", null ],
+    [ "AutoCADBlockMarkerStyleName", "class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_projection_section_options.html#a5946ca6d15568dc354e540ea4e859be6", null ],
+    [ "AutoCADBlockSymbolBlockId", "class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_projection_section_options.html#ace9cffa830d413f40f0be8b01040056a", null ],
+    [ "AutoCADBlockSymbolBlockName", "class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_projection_section_options.html#a104abedc1f09394019e0a1960344c9b7", null ],
+    [ "AutoCADPointDisplayOptions", "class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_projection_section_options.html#a52b5009466416023b94d46f0f31982e5", null ],
+    [ "AutoCADPointMarkerStyleId", "class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_projection_section_options.html#a1f875091af7e1eb081a8522e6dbce6ab", null ],
+    [ "AutoCADPointMarkerStyleName", "class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_projection_section_options.html#aa45ba188c1528eacb3ab00d1c27dbd2b", null ],
+    [ "AutoCADSolidDisplayAsTrueSection", "class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_projection_section_options.html#ac76dbb4e23ee802ea1a71ef5d2699327", null ],
+    [ "AutoCADSolidDisplayOptions", "class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_projection_section_options.html#ad95491d1d53c629385fa925743fd3ad5", null ],
+    [ "AutoCADSolidMarkerStyleId", "class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_projection_section_options.html#ab090dda99bceba29bec699308a74df04", null ],
+    [ "AutoCADSolidMarkerStyleName", "class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_projection_section_options.html#a3a9e7e1061815229960aac0515a53e18", null ],
+    [ "MultiViewBlockDirection", "class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_projection_section_options.html#a16bb333b5a4bce6ac63036205cab4244", null ],
+    [ "MultiViewBlockDisplayOptions", "class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_projection_section_options.html#af24ba381d4bff89e757dc5eaa78cc94b", null ],
+    [ "MultiViewBlockDisplayRepresentationId", "class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_projection_section_options.html#afe9b7cfd389aab6f34eea9bc58ec7cf1", null ],
+    [ "MultiViewBlockDisplayRepresentationName", "class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_projection_section_options.html#ae79c876c2bc71e3d070ee46217d6f67a", null ],
+    [ "MultiViewBlockMarkerStyleId", "class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_projection_section_options.html#a599c6d4f77ee4b5190be2af35e6f3e16", null ],
+    [ "MultiViewBlockMarkerStyleName", "class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_projection_section_options.html#ac2451e315375ade693fcbb1fe2594d31", null ],
+    [ "MultiViewBlockSymbolBlockId", "class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_projection_section_options.html#a5932687639ab66a7eae18f20d4b52e0c", null ],
+    [ "MultiViewBlockSymbolBlockName", "class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_projection_section_options.html#a1b11b882fcf37731bbd275c622827d08", null ],
+    [ "VerticallyExaggerateBlocks", "class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_projection_section_options.html#ad73ea4cbecfbebf5c3d485605d40092e", null ],
+    [ "VerticallyExaggerateMultiViewBlocks", "class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_projection_section_options.html#a46888b267b4b394c986daa3bfc7f2df0", null ],
+    [ "VerticallyExaggerateSolids", "class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_projection_section_options.html#a8b1eda9b0f5224074ead913fa59dd0b8", null ]
+];

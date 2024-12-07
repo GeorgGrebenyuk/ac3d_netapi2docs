@@ -1,0 +1,4 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_surface_fig_survey_query_1_1_settings_cmd_add_data_options =
+[
+    [ "MidOrdinateDistance", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_surface_fig_survey_query_1_1_settings_cmd_add_data_options.html#ab764216bf1140d199fb852f828d5911c", null ]
+];

@@ -1,0 +1,7 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_pressure_network =
+[
+    [ "SettingsCmdDepthOfCover", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_pressure_network_1_1_settings_cmd_depth_of_cover.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_pressure_network_1_1_settings_cmd_depth_of_cover" ],
+    [ "SettingsCmdLabelNewParts", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_pressure_network_1_1_settings_cmd_label_new_parts.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_pressure_network_1_1_settings_cmd_label_new_parts" ],
+    [ "DepthOfCover", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_pressure_network.html#a1be6f6ec231c33fadaa49ddd9b63bd62", null ],
+    [ "LabelNewParts", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_pressure_network.html#aac1b271f450453eb76a331c64011dca3", null ]
+];

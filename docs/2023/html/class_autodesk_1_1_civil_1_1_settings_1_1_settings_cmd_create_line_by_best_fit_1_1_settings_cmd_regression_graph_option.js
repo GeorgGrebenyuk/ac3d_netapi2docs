@@ -1,0 +1,4 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_line_by_best_fit_1_1_settings_cmd_regression_graph_option =
+[
+    [ "SplineFitForRegressionAnalysisGraph", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_line_by_best_fit_1_1_settings_cmd_regression_graph_option.html#ad6ca62d7d1521b508e5c9d17e9d18aed", null ]
+];

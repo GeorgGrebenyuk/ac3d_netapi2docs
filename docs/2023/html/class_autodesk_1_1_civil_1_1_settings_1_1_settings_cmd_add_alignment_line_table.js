@@ -1,0 +1,5 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_alignment_line_table =
+[
+    [ "SettingsCmdTableCreation", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_alignment_line_table_1_1_settings_cmd_table_creation.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_alignment_line_table_1_1_settings_cmd_table_creation" ],
+    [ "TableCreation", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_alignment_line_table.html#ac0e1b2409af384fc622a7637927256a1", null ]
+];

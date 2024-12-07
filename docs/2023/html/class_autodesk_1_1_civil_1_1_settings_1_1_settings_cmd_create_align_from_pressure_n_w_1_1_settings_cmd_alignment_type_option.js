@@ -1,0 +1,4 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_align_from_pressure_n_w_1_1_settings_cmd_alignment_type_option =
+[
+    [ "AlignmentType", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_align_from_pressure_n_w_1_1_settings_cmd_alignment_type_option.html#ab155f9836939ebd826b8913d52d46691", null ]
+];

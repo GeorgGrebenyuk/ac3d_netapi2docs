@@ -1,0 +1,27 @@
+var class_autodesk_1_1_civil_1_1_database_services_1_1_corridor_surface =
+[
+    [ "AddFeatureLineCode", "class_autodesk_1_1_civil_1_1_database_services_1_1_corridor_surface.html#a9929f862c42b422a56dfd967b814abd6", null ],
+    [ "AddLinkCode", "class_autodesk_1_1_civil_1_1_database_services_1_1_corridor_surface.html#a5898ba380e940abb289fba7d05f21ff5", null ],
+    [ "FeatureLineCodeIsBreak", "class_autodesk_1_1_civil_1_1_database_services_1_1_corridor_surface.html#a5be73e6d2509f8d456e85d6a656a77d7", null ],
+    [ "FeatureLineCodes", "class_autodesk_1_1_civil_1_1_database_services_1_1_corridor_surface.html#ad30fae1a4c21ee5a010ebacbfaa67b84", null ],
+    [ "FindElevationAtXY", "class_autodesk_1_1_civil_1_1_database_services_1_1_corridor_surface.html#acb15693efe71f0bd55049f7cd934f347", null ],
+    [ "GetSampleElevations", "class_autodesk_1_1_civil_1_1_database_services_1_1_corridor_surface.html#adc83fe4310265f64fa28c16d6421818b", null ],
+    [ "IsLinkCodeAsBreakLine", "class_autodesk_1_1_civil_1_1_database_services_1_1_corridor_surface.html#a77de6cf0793f35acad8340891dd621da", null ],
+    [ "LinkCodes", "class_autodesk_1_1_civil_1_1_database_services_1_1_corridor_surface.html#a18f72f793149317bedb8f3c666a57739", null ],
+    [ "PointCodes", "class_autodesk_1_1_civil_1_1_database_services_1_1_corridor_surface.html#a7a6611b802d580a17dc9b8a798fb3a75", null ],
+    [ "RemoveFeatureLineCode", "class_autodesk_1_1_civil_1_1_database_services_1_1_corridor_surface.html#a1d7e92c471c88d9d0c709fb2da124d75", null ],
+    [ "RemoveLinkCode", "class_autodesk_1_1_civil_1_1_database_services_1_1_corridor_surface.html#a6a22d7643ae031afcdea1ad59e3558d3", null ],
+    [ "SetLinkCodeAsBreakLine", "class_autodesk_1_1_civil_1_1_database_services_1_1_corridor_surface.html#a0dbf4312959559343366d3d8f0997f63", null ],
+    [ "Boundaries", "class_autodesk_1_1_civil_1_1_database_services_1_1_corridor_surface.html#ac86507a529381d5c8c68573b8695ebd7", null ],
+    [ "CorridorId", "class_autodesk_1_1_civil_1_1_database_services_1_1_corridor_surface.html#aac0ebd8a352d85aa58b919b6ae4d90be", null ],
+    [ "Description", "class_autodesk_1_1_civil_1_1_database_services_1_1_corridor_surface.html#a1937abc8f93df427d2c9d7002a93d7d0", null ],
+    [ "IsBuild", "class_autodesk_1_1_civil_1_1_database_services_1_1_corridor_surface.html#acb7b21f3bbfc7906080f09995df5f303", null ],
+    [ "IsDraw", "class_autodesk_1_1_civil_1_1_database_services_1_1_corridor_surface.html#a1591f7f175d80b434e5ce5852fa94de6", null ],
+    [ "Masks", "class_autodesk_1_1_civil_1_1_database_services_1_1_corridor_surface.html#a90246c5db5e4a8aba17c861aedb06abc", null ],
+    [ "Name", "class_autodesk_1_1_civil_1_1_database_services_1_1_corridor_surface.html#a7375fab9d32a0d249b02556a360c9f47", null ],
+    [ "OverhangCorrection", "class_autodesk_1_1_civil_1_1_database_services_1_1_corridor_surface.html#ab59d702d94be44faf2191f50297d87e5", null ],
+    [ "RenderMaterialId", "class_autodesk_1_1_civil_1_1_database_services_1_1_corridor_surface.html#a9ef80e58506a27a2d2b21b5b20e2515f", null ],
+    [ "SectionStyleId", "class_autodesk_1_1_civil_1_1_database_services_1_1_corridor_surface.html#aa4bca2dacc83a93161a6a81a1cfcc93b", null ],
+    [ "SurfaceId", "class_autodesk_1_1_civil_1_1_database_services_1_1_corridor_surface.html#a3a74eee1f220374ff487164e49b44c0c", null ],
+    [ "SurfaceStyleId", "class_autodesk_1_1_civil_1_1_database_services_1_1_corridor_surface.html#add2edf8d4f5e97deab6708659744ced9", null ]
+];

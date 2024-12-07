@@ -1,0 +1,4 @@
+var class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_label_style_reference_text_component_1_1_style_general =
+[
+    [ "ReferenceTextObjectType", "class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_label_style_reference_text_component_1_1_style_general.html#a275ed31e3f02cb1e69c42f430cc0692d", null ]
+];

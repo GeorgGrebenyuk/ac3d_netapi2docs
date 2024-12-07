@@ -1,0 +1,5 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parcel_r_o_w_1_1_settings_cmd_cleanup_at_alignment_intersections =
+[
+    [ "CleanupMethodFillet", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parcel_r_o_w_1_1_settings_cmd_cleanup_at_alignment_intersections.html#a1335c737d43d0086d2faf38d27e15de9", null ],
+    [ "FilletRadiusAtAlignmentIntersections", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parcel_r_o_w_1_1_settings_cmd_cleanup_at_alignment_intersections.html#ac47e4943e7c79bb7d16b144d9e331042", null ]
+];

@@ -1,0 +1,11 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_multiple_profile_view_1_1_settingsec84d612642d32ec7438afeea1f690f1 =
+[
+    [ "ColumnSpacing", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_multiple_profile_view_1_1_settingsec84d612642d32ec7438afeea1f690f1.html#a7ad243ff3ef600723a058bc1de137746", null ],
+    [ "DefaultProfileViewHeight", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_multiple_profile_view_1_1_settingsec84d612642d32ec7438afeea1f690f1.html#ae9a4461a46f9b654d34fbdb1843903b6", null ],
+    [ "DefaultProfileViewLength", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_multiple_profile_view_1_1_settingsec84d612642d32ec7438afeea1f690f1.html#a252f0e1ad2173ccc44cf6b8c2f7c8e17", null ],
+    [ "PlotPattern", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_multiple_profile_view_1_1_settingsec84d612642d32ec7438afeea1f690f1.html#a591e1281e0e1fe816d3e5b0630009a68", null ],
+    [ "ProfileViewDatumBy", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_multiple_profile_view_1_1_settingsec84d612642d32ec7438afeea1f690f1.html#a3460ef11216b7915ba7f083d3021cfb0", null ],
+    [ "ProfileViewsInRowOrColumn", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_multiple_profile_view_1_1_settingsec84d612642d32ec7438afeea1f690f1.html#a8674df47ce6279d68b4ef98d2f2b7a23", null ],
+    [ "RowSpacing", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_multiple_profile_view_1_1_settingsec84d612642d32ec7438afeea1f690f1.html#a1c6fb7b7bd9b13d30a827011ba60dc56", null ],
+    [ "StartCorner", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_multiple_profile_view_1_1_settingsec84d612642d32ec7438afeea1f690f1.html#a92250bbd3f2012b0a84257d9555e0819", null ]
+];

@@ -1,0 +1,5 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_compute_materials =
+[
+    [ "SettingsCmdDefineMaterial", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_compute_materials_1_1_settings_cmd_define_material.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_compute_materials_1_1_settings_cmd_define_material" ],
+    [ "DefineMaterialOption", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_compute_materials.html#aefb8f10d15f465a1f20a50b71524ded5", null ]
+];

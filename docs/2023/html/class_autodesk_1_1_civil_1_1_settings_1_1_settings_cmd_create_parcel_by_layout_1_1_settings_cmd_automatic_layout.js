@@ -1,0 +1,5 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parcel_by_layout_1_1_settings_cmd_automatic_layout =
+[
+    [ "AutomaticMode", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parcel_by_layout_1_1_settings_cmd_automatic_layout.html#a674ec02948d4c0b7f9fb9d74ff2290f7", null ],
+    [ "RemainderDistributionType", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parcel_by_layout_1_1_settings_cmd_automatic_layout.html#acb748592bd8523f1a63025c412cca572", null ]
+];

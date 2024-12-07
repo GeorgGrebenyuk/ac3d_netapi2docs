@@ -1,0 +1,5 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_surface_reference =
+[
+    [ "SettingsNameFormat", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_surface_reference_1_1_settings_name_format.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_surface_reference_1_1_settings_name_format" ],
+    [ "NameFormat", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_surface_reference.html#a61f905861a54b6e4c70b0370e1279ed5", null ]
+];

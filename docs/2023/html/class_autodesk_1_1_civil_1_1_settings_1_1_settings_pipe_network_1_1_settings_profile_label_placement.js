@@ -1,0 +1,10 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_pipe_network_1_1_settings_profile_label_placement =
+[
+    [ "DimensionAnchorElevationValueForPipes", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_pipe_network_1_1_settings_profile_label_placement.html#a6de667fdc5fa8824d16cacc65b9b1356", null ],
+    [ "DimensionAnchorElevationValueForStructures", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_pipe_network_1_1_settings_profile_label_placement.html#a8ea041d3ab20f5813838994c7cf2ced4", null ],
+    [ "DimensionAnchorOptionForPipes", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_pipe_network_1_1_settings_profile_label_placement.html#a018631a1a33d8ad5c30f6e310b4c2c01", null ],
+    [ "DimensionAnchorOptionForStructures", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_pipe_network_1_1_settings_profile_label_placement.html#ae41e8e94bd8490a221043890517ea5b3", null ],
+    [ "DimensionAnchorPlotHeightValueForPipes", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_pipe_network_1_1_settings_profile_label_placement.html#af0184cf9bb65abf44fd9c69d21d52140", null ],
+    [ "DimensionAnchorPlotHeightValueForStructures", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_pipe_network_1_1_settings_profile_label_placement.html#a3f06d40939797772d39b96cacf635ec6", null ],
+    [ "StructureLabelPlacement", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_pipe_network_1_1_settings_profile_label_placement.html#a1fc0355056a0210583c3948415179e59", null ]
+];

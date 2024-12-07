@@ -1,0 +1,11 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_alignment_layout =
+[
+    [ "SettingsCmdAlignmentTypeOption", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_alignment_layout_1_1_settings_cmd_alignment_type_option.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_alignment_layout_1_1_settings_cmd_alignment_type_option" ],
+    [ "SettingsCmdCurveAndSpiralSettings", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_alignment_layout_1_1_settings_cmd_curve_and_spiral_settings.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_alignment_layout_1_1_settings_cmd_curve_and_spiral_settings" ],
+    [ "SettingsCmdCurveTessellationOption", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_alignment_layout_1_1_settings_cmd_curve_tessellation_option.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_alignment_layout_1_1_settings_cmd_curve_tessellation_option" ],
+    [ "SettingsCmdRegressionGraphOption", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_alignment_layout_1_1_settings_cmd_regression_graph_option.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_alignment_layout_1_1_settings_cmd_regression_graph_option" ],
+    [ "AlignmentTypeOption", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_alignment_layout.html#a137010d0fb5419a569b999d08ddc2944", null ],
+    [ "CurveAndSpiralSettings", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_alignment_layout.html#ac325c12fbedb785ecbacb72e77866898", null ],
+    [ "CurveTessellationOption", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_alignment_layout.html#a2c058ec0b6be666fc825b40ac3ac0d01", null ],
+    [ "RegressionGraphOption", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_alignment_layout.html#a8d8cda9820285a4aa5f5c8d1974478af", null ]
+];

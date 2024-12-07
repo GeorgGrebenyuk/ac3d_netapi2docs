@@ -1,0 +1,5 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_subassembly_tool =
+[
+    [ "SettingsCmdSubassemblyOptions", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_subassembly_tool_1_1_settings_cmd_subassembly_options.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_subassembly_tool_1_1_settings_cmd_subassembly_options" ],
+    [ "SubassemblyOptions", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_subassembly_tool.html#aca22179e466cfa75049cbd8d25de1c88", null ]
+];

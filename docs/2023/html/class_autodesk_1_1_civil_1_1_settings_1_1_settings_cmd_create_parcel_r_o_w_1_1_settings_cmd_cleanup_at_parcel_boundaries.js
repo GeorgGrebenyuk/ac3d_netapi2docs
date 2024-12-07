@@ -1,0 +1,5 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parcel_r_o_w_1_1_settings_cmd_cleanup_at_parcel_boundaries =
+[
+    [ "CleanupMethodFillet", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parcel_r_o_w_1_1_settings_cmd_cleanup_at_parcel_boundaries.html#ad378c05ef95c4349e5e0d186e8b7e5cd", null ],
+    [ "FilletRadiusAtParcelBoundaryIntersections", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parcel_r_o_w_1_1_settings_cmd_cleanup_at_parcel_boundaries.html#aaf7fc8f20816135284d5e39d14c14346", null ]
+];

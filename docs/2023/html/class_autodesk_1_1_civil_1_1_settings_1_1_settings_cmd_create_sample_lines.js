@@ -1,0 +1,11 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_sample_lines =
+[
+    [ "SettingsCmdAdditionalSampleControls", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_sample_lines_1_1_settings_cmd_additional_sample_controls.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_sample_lines_1_1_settings_cmd_additional_sample_controls" ],
+    [ "SettingsCmdMiscellaneous", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_sample_lines_1_1_settings_cmd_miscellaneous.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_sample_lines_1_1_settings_cmd_miscellaneous" ],
+    [ "SettingsCmdSamplingIncrements", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_sample_lines_1_1_settings_cmd_sampling_increments.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_sample_lines_1_1_settings_cmd_sampling_increments" ],
+    [ "SettingsCmdSwathWidths", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_sample_lines_1_1_settings_cmd_swath_widths.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_sample_lines_1_1_settings_cmd_swath_widths" ],
+    [ "AdditionalSampleControls", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_sample_lines.html#a1bb8b90bb26453daa5fb29e2b70299ab", null ],
+    [ "Miscellaneous", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_sample_lines.html#a8c23d824d287fb908c53efb54dca4e20", null ],
+    [ "SamplingIncrements", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_sample_lines.html#a2c4ad25c9af3b68d84b8f7addca6f44e", null ],
+    [ "SwathWidths", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_sample_lines.html#a53d41aa1700c5da3c2e558b166ac8adc", null ]
+];

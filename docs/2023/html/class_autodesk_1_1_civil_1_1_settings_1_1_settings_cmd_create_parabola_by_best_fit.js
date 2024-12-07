@@ -1,0 +1,7 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parabola_by_best_fit =
+[
+    [ "SettingsCmdCurveTessellationOption", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parabola_by_best_fit_1_1_settings_cmd_curve_tessellation_option.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parabola_by_best_fit_1_1_settings_cmd_curve_tessellation_option" ],
+    [ "SettingsCmdRegressionGraphOption", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parabola_by_best_fit_1_1_settings_cmd_regression_graph_option.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parabola_by_best_fit_1_1_settings_cmd_regression_graph_option" ],
+    [ "CurveTessellationOption", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parabola_by_best_fit.html#acadcc20c71b0e24d6963d8cbd035fafb", null ],
+    [ "RegressionGraphOption", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parabola_by_best_fit.html#a30a9b7f2e32cf38478c5034c55514671", null ]
+];

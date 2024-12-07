@@ -1,0 +1,5 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_widening_1_1_settings_cmd_linear_transition_around_curves =
+[
+    [ "NumberOfSegments", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_widening_1_1_settings_cmd_linear_transition_around_curves.html#a06b373c04b04d7465f1864ce81da6294", null ],
+    [ "TransitionSegmentType", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_widening_1_1_settings_cmd_linear_transition_around_curves.html#a150a633b287493c9ced094a230b48a88", null ]
+];

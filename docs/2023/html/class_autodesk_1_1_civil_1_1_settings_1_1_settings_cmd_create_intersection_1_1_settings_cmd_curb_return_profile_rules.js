@@ -1,0 +1,8 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_intersection_1_1_settings_cmd_curb_return_profile_rules =
+[
+    [ "DefineCurbReturnProfileBy", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_intersection_1_1_settings_cmd_curb_return_profile_rules.html#a0c0eb32ddaf0929143072198eea321ac", null ],
+    [ "ExtendProfileAlongIncomingLane", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_intersection_1_1_settings_cmd_curb_return_profile_rules.html#aec7839693a2167a03915542dc776fcb2", null ],
+    [ "ExtendProfileAlongOutgoingLane", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_intersection_1_1_settings_cmd_curb_return_profile_rules.html#a8456d8b8fd952c9026d5400f1108fb16", null ],
+    [ "LengthToExtendAlongIncomingLane", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_intersection_1_1_settings_cmd_curb_return_profile_rules.html#aa833c1d71ba47bd04872c51b3370cd10", null ],
+    [ "LengthToExtendAlongOutgoingLane", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_intersection_1_1_settings_cmd_curb_return_profile_rules.html#adab467016c155f1a9cf3073e37d9d9ec", null ]
+];

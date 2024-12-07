@@ -1,0 +1,5 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_parcel_segment_labels =
+[
+    [ "SettingsCmdOptions", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_parcel_segment_labels_1_1_settings_cmd_options.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_parcel_segment_labels_1_1_settings_cmd_options" ],
+    [ "Options", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_parcel_segment_labels.html#a81d1e5cf335a70bd3e821bfc843c3f53", null ]
+];

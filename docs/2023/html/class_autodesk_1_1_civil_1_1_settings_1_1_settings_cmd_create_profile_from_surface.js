@@ -1,0 +1,5 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_profile_from_surface =
+[
+    [ "SettingsCmdGeometry", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_profile_from_surface_1_1_settings_cmd_geometry.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_profile_from_surface_1_1_settings_cmd_geometry" ],
+    [ "Geometry", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_profile_from_surface.html#ac4624a8971a3cda2b5080a2890576f7a", null ]
+];

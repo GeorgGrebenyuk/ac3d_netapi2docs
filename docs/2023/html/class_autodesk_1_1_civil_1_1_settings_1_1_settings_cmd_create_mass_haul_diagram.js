@@ -1,0 +1,5 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_mass_haul_diagram =
+[
+    [ "SettingsCmdMassHaulCreation", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_mass_haul_diagram_1_1_settings_cmd_mass_haul_creation.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_mass_haul_diagram_1_1_settings_cmd_mass_haul_creation" ],
+    [ "MassHaulCreation", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_mass_haul_diagram.html#aff4c09e46075780852ff502079bfdf96", null ]
+];

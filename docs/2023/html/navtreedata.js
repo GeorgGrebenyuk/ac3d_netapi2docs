@@ -1,0 +1,155 @@
+/*
+ @licstart  The following is the entire license notice for the JavaScript code in this file.
+
+ The MIT License (MIT)
+
+ Copyright (C) 1997-2020 by Dimitri van Heesch
+
+ Permission is hereby granted, free of charge, to any person obtaining a copy of this software
+ and associated documentation files (the "Software"), to deal in the Software without restriction,
+ including without limitation the rights to use, copy, modify, merge, publish, distribute,
+ sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is
+ furnished to do so, subject to the following conditions:
+
+ The above copyright notice and this permission notice shall be included in all copies or
+ substantial portions of the Software.
+
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING
+ BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+ DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+ @licend  The above is the entire license notice for the JavaScript code in this file
+*/
+var NAVTREE =
+[
+  [ "Autodesk AutoCAD Civil 3D", "index.html", [
+    [ "Packages", "namespaces.html", [
+      [ "Package List", "namespaces.html", "namespaces_dup" ],
+      [ "Package Members", "namespacemembers.html", [
+        [ "All", "namespacemembers.html", "namespacemembers_dup" ],
+        [ "Enumerations", "namespacemembers_enum.html", "namespacemembers_enum" ]
+      ] ]
+    ] ],
+    [ "Classes", "annotated.html", [
+      [ "Class List", "annotated.html", "annotated_dup" ],
+      [ "Class Index", "classes.html", null ],
+      [ "Class Hierarchy", "hierarchy.html", "hierarchy" ],
+      [ "Class Members", "functions.html", [
+        [ "All", "functions.html", "functions_dup" ],
+        [ "Functions", "functions_func.html", "functions_func" ],
+        [ "Variables", "functions_vars.html", null ],
+        [ "Enumerations", "functions_enum.html", null ],
+        [ "Properties", "functions_prop.html", "functions_prop" ],
+        [ "Events", "functions_evnt.html", null ]
+      ] ]
+    ] ]
+  ] ]
+];
+
+var NAVTREEINDEX =
+[
+"annotated.html",
+"class_autodesk_1_1_aec_1_1_content_1_1_ca_mgd_content_value.html#a9768efa9efac93582c2cd57789fa2df4",
+"class_autodesk_1_1_aec_1_1_content_1_1_ca_mgd_part_attribute_definition.html#ae95d2703fecca50337fbb7c036021e2e",
+"class_autodesk_1_1_civil_1_1_aecc_ui_mgd_1_1_data_sharing_utils.html",
+"class_autodesk_1_1_civil_1_1_aecc_ui_mgd_1_1_pressure_pipes_1_1_layout_data.html#a33f1f1697f07810e24ccf43be5418f83",
+"class_autodesk_1_1_civil_1_1_aecc_ui_mgd_1_1_survey_1_1_survey_query.html#a63e27536bf0f90c12ab006ce4e04950c",
+"class_autodesk_1_1_civil_1_1_civil_exception.html#a4d9935cada470fc2a74f7da63bd9f636",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_alignment.html#a49fe8de59a5849ea357311728a207a45",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_alignment_entity.html",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_alignment_p_i_label.html#a842770a21f498bafefaa6f04428d056a",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_alignment_sub_entity_arc.html#a18a525646bbd71855fda9c12a4bdaeb4",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_applied_subassembly.html#a4c48e233995815e01c59cbe9feeaad15",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_auto_corridor_feature_line.html#a970dbf803cbc01aa0a7daa026a458d23",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_baseline_region.html#ab70c38a22e8e9f3fd11f00bf19e83836",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_catchment.html#a9c1e7c81c9ee2952b0e5dfc9c1615c9e",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_cogo_point_collection.html#a4a096665ebbdc00a38972ee8fe79132d",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_corridor.html#a4bf2207195fb26b201503321d1107d63",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_corridor_surface_boundary_collection.html#a128c35bb4f75fdd00023b8c9552133d0",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_feature_line.html#a336298717318f1c4fee8db75c5823281",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_general_segment_label.html#a902079f12b3f5cb68f593a1366309a98",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_grid_surface_cell_enumerator.html#a1eee47a45af53e12d412c7f100dbce89",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_label.html#a84bf37ec4c6e576876e6345934100411",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_link_collection.html#a97253592eac09e38da76e2adde26a017",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_offset_alignment_widening_criteria.html#a83fb148c50c42adeb49a526259b3029f",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_part.html#aa4598ce0b9cf9e906627f81295d358be",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_pipe.html#aba19d89b9e6d2be2c1f709203c559c7d",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_point_file_format_collection.html#ac9475aa4b84ce07c8abac2b3a565db2b",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_pressure_appurtenance_label.html#ad9e6dc49fa6c56a55aa0e48f9b58f747",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_pressure_pipe.html#a83d21cd92a2189cc3947379726d4602b",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_profile.html#a0b826815f30c690b4f361ce43491d94d",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_profile_entity_collection.html#a591bb8405fb2960f685e1e04fb10ecb5",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_profile_parabola_symmetric.html#a2a80d1cff9eb6fb6f91cfaabf041acc6",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_profile_view_split_data.html#a4265e1ccde72bab10048c68e824a24e0",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_q_t_o_material_list_gap.html",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_sample_line_group.html#a94da0deed0e163a63e8e3c790be84a4e",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_section_pipe_network.html#ad534be6a493513cb9dbf122c82a37467",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_section_view_group_creation_range_options.html#a99322f967219bf965b0ff216d6504f2d",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_stacked_profile_views_creation_options.html#a4aa03ee51d5053347affa7766c470576",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_structure_section_label.html#a475b5f0456c83e46587005e3a024e53f",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_band_set_style.html#ac028575c7dff8f1b73e898b727623ff8",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_column_style.html#a13094c9198672f4b3bafc2b77d473b4e",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_grading_style_collection.html",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_label_style_base_1_1_base_behavior.html#a213c6e599cd20a3e905faf22286ad578",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_label_style_direction_arrow_component_1_1_style_general.html#ac057679548706ad74d61f99599bc9b80",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_label_styles_point_root.html",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_mass_haul_view_style_collection.html",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_point_cloud_point_style.html#a2e2175009ce9a9b761f2195147bd01ea",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_pressure_pipe_style_profile_option.html#a46139e0e23187d34049ca94ae7bf5f53",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_projection_profile_options.html#aa1e768dda8140f6baab530daad6f806f",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_section_view_band_set_item_collection.html#a4e6e410e22b80451713f911c7bb23ee6",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_structure_column_components.html#a999148d0a37ab1675cb39c658e82e3a0",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_subassembly_subentity_style.html#ab9fdc934efaec07e4a26072c0f20b494",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_surface_style.html#a2a75c34b440b11c3a1d44fc366f8fdf6",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_styles_1_1_table_styles_root.html#a7319966482b1a742471c87366b827e4d",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_subassembly_target_info_collection.html#a3a9877751e77f7cfcf6fadbb7780d2c6",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_surface_analysis_contour_data.html#a7bd57e2226f10e37fc022ab2ad3f1d5d",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_surface_definition_base.html#ad102a2b7f2551870e70f1793883a4400",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_surface_operation_add_contour.html#a431ad3c74af7de8c4d8eeb2a13ec2c59",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_surface_point_output_options.html#aacf6406ca2ba851419f743801751c582",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_tin_surface_edge_enumerator.html#a2c7abe36202b2dfb55262ed2323a9be0",
+"class_autodesk_1_1_civil_1_1_database_services_1_1_u_d_p_enumeration.html#ac4760a3d6311134f5ac970afb7dfb939",
+"class_autodesk_1_1_civil_1_1_profile_design_check_collection.html#abcba5a0eccfad258d86bc1e4ad1a30c0",
+"class_autodesk_1_1_civil_1_1_runtime_1_1_corridor_state.html#aa6927f32393e908c46bf85f878af9e80",
+"class_autodesk_1_1_civil_1_1_runtime_1_1_param_surface.html#a5ca747aa641d44fcba7a0db8c8a83d6d",
+"class_autodesk_1_1_civil_1_1_settings_1_1_settings_alignment_1_1_settings_styles.html#a1d0dae17d3a40855ed1f32290213dc30",
+"class_autodesk_1_1_civil_1_1_settings_1_1_settings_ambient_1_1_settings_unitless_number.html#a1b640d49fb6fe23f829ef63b61cbd063",
+"class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_material_volume_table_1_1_settings_cmd_table_creation.html#a9536d0b89fe9b13d06b4dfcd9f6b1217",
+"class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_surface_breaklines_1_1_settings_cmd_add_data_options.html",
+"class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_alignment_layout_1_1_settings_cmd_alignment_type_option.html#a5010f812e34e6cc10ce4482019ffcaa1",
+"class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_flow_segment_1_1_settings_cmd_channel_flow.html",
+"class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_multiple_section_view.html#aab1450218587f4de1f94e9d914021541",
+"class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_points_1_1_settings_cmd_points_creation.html#aab6426799788621bfc9669aed624467a",
+"class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_site_1_1_settings_cmd_alignment.html#a5c6fba5233a55a7eb11ea8c135d28a8c",
+"class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_feature_lines_from_corridor.html#a4a654dd84309170a377477356376c754",
+"class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_take_off_1_1_settings_cmd_compute_take_off.html",
+"class_autodesk_1_1_civil_1_1_settings_1_1_settings_corridor_1_1_settings_styles.html#a7384ef6bc32dbfa00dcf95d1254b81e7",
+"class_autodesk_1_1_civil_1_1_settings_1_1_settings_land_x_m_l_import_1_1_settings_diameter_units.html#aa9f450f0ce144ee1fdf90301414c8f87",
+"class_autodesk_1_1_civil_1_1_settings_1_1_settings_pipe_network_1_1_settings_styles.html#a0999c83f7e62abc468fd53b3a99fc13e",
+"class_autodesk_1_1_civil_1_1_settings_1_1_settings_profile_1_1_settings_profile_creation.html",
+"class_autodesk_1_1_civil_1_1_settings_1_1_settings_section_1_1_settings_name_format.html#a518a84f0e27bcc32c6f92f03fc61a366",
+"class_autodesk_1_1_civil_1_1_settings_1_1_settings_unit_zone.html",
+"functions_prop_x.html",
+"namespace_autodesk_1_1_aec_1_1_content.html#a6907f3512be456e0e0ef6c70b99eb236a517349a3cdc1acf50617693e3ba33988",
+"namespace_autodesk_1_1_aec_1_1_content.html#a7edce75afb4df281cda14b5e63acbd2eadf18a84b5fc735e419c15231a667229e",
+"namespace_autodesk_1_1_civil.html#a1b2c4676c80062a91eaafcac077f6ec7a9e33b5a0868f9198c4d1f6a8a884255d",
+"namespace_autodesk_1_1_civil.html#a5225823419dc7908fdd1a8b0f86fe052a156eafa323c2f9b4431841ad567f653e",
+"namespace_autodesk_1_1_civil.html#a976301788f929d3ce6eebbf7a0293317abb316a55d1f20c5223d4086f56823e74",
+"namespace_autodesk_1_1_civil.html#aab1a18acc7137f24465d07e9abb37952aae19c815f2285a24a1a9702df97232b0",
+"namespace_autodesk_1_1_civil.html#adda648912e0329a46168be03edf484c2a4578d8175c4974b63ec8497e44f9b3d3",
+"namespace_autodesk_1_1_civil_1_1_aecc_ui_mgd.html#a779e1fc930bbccf91900530e7fdc9204",
+"namespace_autodesk_1_1_civil_1_1_database_services.html#a2311448dd5108aa4d298645cef80da08aeb1cecc5a4942dcfd674fda8a21605db",
+"namespace_autodesk_1_1_civil_1_1_database_services.html#a60513e0c8b37f3fb534b70de581f367ca9d26658e875de053b378db74cb6af887",
+"namespace_autodesk_1_1_civil_1_1_database_services.html#ac534896baea22751b91babaed938e424a325ba3ad67b2771108c655d22167aa10",
+"namespace_autodesk_1_1_civil_1_1_database_services_1_1_styles.html#a23efdbb7ba2faecad6f88a31dc687be3",
+"namespace_autodesk_1_1_civil_1_1_database_services_1_1_styles.html#a8223430bb03d497df695b6345a99d968aeac06f9d0325aa1a11158e0c8b6ed65a",
+"namespace_autodesk_1_1_civil_1_1_database_services_1_1_styles.html#ab81292fe3e64ba94f5dcdc813880758faa8bdff38e8495a5b37915334435bd260",
+"namespace_autodesk_1_1_civil_1_1_database_services_1_1_styles.html#aec6332e1bea5f67b74097ba345f00bf5af8dabd498f64d1b3e8f05fa636d49840",
+"namespace_autodesk_1_1_civil_1_1_settings.html#a66f4ac257b88fa68509b78b87f6274aaaa5e1a6d3fe45bc592751eec8f6085f58",
+"struct_autodesk_1_1_civil_1_1_aecc_ui_mgd_1_1_pressure_pipes_1_1_pressure_part_data.html#a86d996bbd39adcc87bc1f5b7d9369140"
+];
+
+var SYNCONMSG = 'click to disable panel synchronisation';
+var SYNCOFFMSG = 'click to enable panel synchronisation';

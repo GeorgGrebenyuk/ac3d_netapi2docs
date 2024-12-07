@@ -1,0 +1,4 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_land_x_m_l_import_1_1_settings_conflict_resolution =
+[
+    [ "ConflictResolution", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_land_x_m_l_import_1_1_settings_conflict_resolution.html#a543374d3319689f0aaab78d255954cc9", null ]
+];

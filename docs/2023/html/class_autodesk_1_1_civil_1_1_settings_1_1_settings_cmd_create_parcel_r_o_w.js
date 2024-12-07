@@ -1,0 +1,9 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parcel_r_o_w =
+[
+    [ "SettingsCmdCleanupAtAlignmentIntersections", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parcel_r_o_w_1_1_settings_cmd_cleanup_at_alignment_intersections.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parcel_r_o_w_1_1_settings_cmd_cleanup_at_alignment_intersections" ],
+    [ "SettingsCmdCleanupAtParcelBoundaries", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parcel_r_o_w_1_1_settings_cmd_cleanup_at_parcel_boundaries.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parcel_r_o_w_1_1_settings_cmd_cleanup_at_parcel_boundaries" ],
+    [ "SettingsCmdCreateParcelRightOfWay", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parcel_r_o_w_1_1_settings_cmd_create_parcel_right_of_way.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parcel_r_o_w_1_1_settings_cmd_create_parcel_right_of_way" ],
+    [ "CleanupAtAlignmentIntersections", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parcel_r_o_w.html#a7d680ec578ed56399156b8cdde7f6481", null ],
+    [ "CleanupAtParcelBoundaries", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parcel_r_o_w.html#a1b87bf53b32e5ef958fd2115e1749b2b", null ],
+    [ "CreateParcelRightOfWay", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parcel_r_o_w.html#ac51cb0413eae4c25712621ce7b608e20", null ]
+];

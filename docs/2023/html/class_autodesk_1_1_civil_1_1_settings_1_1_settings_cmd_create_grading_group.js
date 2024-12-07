@@ -1,0 +1,5 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_grading_group =
+[
+    [ "SettingsCmdGradingGroupCreation", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_grading_group_1_1_settings_cmd_grading_group_creation.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_grading_group_1_1_settings_cmd_grading_group_creation" ],
+    [ "GradingGroupCreation", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_grading_group.html#a0ae5a1d78abd950f927a8dc5c4339cba", null ]
+];

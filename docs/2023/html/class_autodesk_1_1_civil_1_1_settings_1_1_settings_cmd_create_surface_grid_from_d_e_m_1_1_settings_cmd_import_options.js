@@ -1,0 +1,5 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_surface_grid_from_d_e_m_1_1_settings_cmd_import_options =
+[
+    [ "NullElevation", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_surface_grid_from_d_e_m_1_1_settings_cmd_import_options.html#a317b3fdbe360ba9eea07fa7e4027f52b", null ],
+    [ "UseCustomNullElevation", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_surface_grid_from_d_e_m_1_1_settings_cmd_import_options.html#a0cb8a7bb5006128c9262529a0603ad9a", null ]
+];

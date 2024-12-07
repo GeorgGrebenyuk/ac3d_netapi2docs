@@ -1,0 +1,9 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_sample_lines_1_1_settings_cmd_additional_sample_controls =
+[
+    [ "AtHorizontalGeometryPoints", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_sample_lines_1_1_settings_cmd_additional_sample_controls.html#a3380ac134afe6b6bbb065ba861a78910", null ],
+    [ "AtRangeEnd", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_sample_lines_1_1_settings_cmd_additional_sample_controls.html#a57d5bed1b82e83934e2b8db615edce89", null ],
+    [ "AtRangeStart", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_sample_lines_1_1_settings_cmd_additional_sample_controls.html#a99b81c93a4080f1e1de67da5289db930", null ],
+    [ "AtSuperelevationCriticalStations", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_sample_lines_1_1_settings_cmd_additional_sample_controls.html#ade31371bfc3bf8e40fc725821ecda9af", null ],
+    [ "EndRangeAtAlignmentEnd", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_sample_lines_1_1_settings_cmd_additional_sample_controls.html#af782c9541321fda7dd15cbce569df47e", null ],
+    [ "StartRangeAtAlignmentStart", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_sample_lines_1_1_settings_cmd_additional_sample_controls.html#ab34a90f6d7ef15c906bfa712854ae747", null ]
+];

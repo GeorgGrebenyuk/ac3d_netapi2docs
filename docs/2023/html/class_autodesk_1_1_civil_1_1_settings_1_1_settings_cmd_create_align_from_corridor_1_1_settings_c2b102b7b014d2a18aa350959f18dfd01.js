@@ -1,0 +1,11 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_align_from_corridor_1_1_settings_c2b102b7b014d2a18aa350959f18dfd01 =
+[
+    [ "DefaultDesignCheckSet", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_align_from_corridor_1_1_settings_c2b102b7b014d2a18aa350959f18dfd01.html#ae13d4b1922bd3de5ec87c95189db325d", null ],
+    [ "DefaultDesignCheckSetId", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_align_from_corridor_1_1_settings_c2b102b7b014d2a18aa350959f18dfd01.html#a49bb1f6b27a5493e5e74107b46c3c840", null ],
+    [ "DesignSpeed", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_align_from_corridor_1_1_settings_c2b102b7b014d2a18aa350959f18dfd01.html#a4b9d8039c16fcb76dfd07ed47d6c8698", null ],
+    [ "DesignSpeedLookupMethod", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_align_from_corridor_1_1_settings_c2b102b7b014d2a18aa350959f18dfd01.html#a55f184ba0cbf00eb4915ddf0e9210fcf", null ],
+    [ "RadiusLookupMethod", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_align_from_corridor_1_1_settings_c2b102b7b014d2a18aa350959f18dfd01.html#a442ddd80060b8c5a4cbd7df8bea55315", null ],
+    [ "UseCriteriaBasedDesignOption", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_align_from_corridor_1_1_settings_c2b102b7b014d2a18aa350959f18dfd01.html#aec61d72fe8a75e615bf9fbbac922415b", null ],
+    [ "UseDesignChecksOption", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_align_from_corridor_1_1_settings_c2b102b7b014d2a18aa350959f18dfd01.html#ae36a5affe4bbefcf7147c36b0deb9234", null ],
+    [ "UseDesignCriteriaFileOption", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_align_from_corridor_1_1_settings_c2b102b7b014d2a18aa350959f18dfd01.html#a652e0c35676764b5292f4f161cd21080", null ]
+];

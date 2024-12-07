@@ -1,0 +1,4 @@
+var class_autodesk_1_1_civil_1_1_database_services_1_1_surface_definition_add_point_survey_queries =
+[
+    [ "AddPointSurveyQuery", "class_autodesk_1_1_civil_1_1_database_services_1_1_surface_definition_add_point_survey_queries.html#a753ee700b51ef059fe34e66f0435c305", null ]
+];

@@ -1,0 +1,4 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_alignment_entities_1_1_settings_cmd_alignment_type_option =
+[
+    [ "AlignmentType", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_alignment_entities_1_1_settings_cmd_alignment_type_option.html#a2fc2be0b09105024878eb7f25a60399d", null ]
+];

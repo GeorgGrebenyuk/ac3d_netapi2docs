@@ -1,0 +1,7 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_line_by_best_fit =
+[
+    [ "SettingsCmdCurveTessellationOption", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_line_by_best_fit_1_1_settings_cmd_curve_tessellation_option.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_line_by_best_fit_1_1_settings_cmd_curve_tessellation_option" ],
+    [ "SettingsCmdRegressionGraphOption", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_line_by_best_fit_1_1_settings_cmd_regression_graph_option.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_line_by_best_fit_1_1_settings_cmd_regression_graph_option" ],
+    [ "CurveTessellationOption", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_line_by_best_fit.html#a69193601d41626f0b10917c121b91822", null ],
+    [ "RegressionGraphOption", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_line_by_best_fit.html#a5e1192ba1617bcf072acc4b89f0685cc", null ]
+];

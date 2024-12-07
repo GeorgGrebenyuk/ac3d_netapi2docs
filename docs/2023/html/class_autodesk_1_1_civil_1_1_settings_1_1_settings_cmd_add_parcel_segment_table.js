@@ -1,0 +1,5 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_parcel_segment_table =
+[
+    [ "SettingsCmdTableCreation", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_parcel_segment_table_1_1_settings_cmd_table_creation.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_parcel_segment_table_1_1_settings_cmd_table_creation" ],
+    [ "TableCreation", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_parcel_segment_table.html#afa773698884341e7b0629bfea07a17e0", null ]
+];

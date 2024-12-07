@@ -1,0 +1,4 @@
+var class_autodesk_1_1_civil_1_1_database_services_1_1_surface_operation_delete_multiple_tin_vertices =
+[
+    [ "Locations", "class_autodesk_1_1_civil_1_1_database_services_1_1_surface_operation_delete_multiple_tin_vertices.html#accd573721151eeff943fd0fc988d1afd", null ]
+];

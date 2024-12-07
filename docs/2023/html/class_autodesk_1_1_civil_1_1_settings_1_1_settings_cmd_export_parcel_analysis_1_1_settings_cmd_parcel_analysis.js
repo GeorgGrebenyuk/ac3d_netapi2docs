@@ -1,0 +1,6 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_export_parcel_analysis_1_1_settings_cmd_parcel_analysis =
+[
+    [ "AnalysisType", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_export_parcel_analysis_1_1_settings_cmd_parcel_analysis.html#a13885e90009ed248b588042a8d3fd5f2", null ],
+    [ "EnableMapcheckAcrossChord", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_export_parcel_analysis_1_1_settings_cmd_parcel_analysis.html#ac4f5c772682f6d83fd6f2e69d060419e", null ],
+    [ "ProcessCounterClockwise", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_export_parcel_analysis_1_1_settings_cmd_parcel_analysis.html#a6988c992330765a280e86dd326b76bde", null ]
+];

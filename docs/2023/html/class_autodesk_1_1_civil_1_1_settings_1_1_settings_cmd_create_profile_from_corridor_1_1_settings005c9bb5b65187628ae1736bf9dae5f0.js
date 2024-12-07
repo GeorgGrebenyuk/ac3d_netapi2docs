@@ -1,0 +1,7 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_profile_from_corridor_1_1_settings005c9bb5b65187628ae1736bf9dae5f0 =
+[
+    [ "DefaultDesignCheckSet", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_profile_from_corridor_1_1_settings005c9bb5b65187628ae1736bf9dae5f0.html#ae3d6264bf7e3fc466d9503b80759007e", null ],
+    [ "DefaultDesignCheckSetId", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_profile_from_corridor_1_1_settings005c9bb5b65187628ae1736bf9dae5f0.html#ad968ba6fbf15f03ee40a9878614d5c79", null ],
+    [ "UseDesignChecksOption", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_profile_from_corridor_1_1_settings005c9bb5b65187628ae1736bf9dae5f0.html#ac09ae8de90a69f48fde66d855e4e2c99", null ],
+    [ "UseDesignCriteriaFileOption", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_profile_from_corridor_1_1_settings005c9bb5b65187628ae1736bf9dae5f0.html#af53dfedb4a6b026d8408fb992b5158ed", null ]
+];

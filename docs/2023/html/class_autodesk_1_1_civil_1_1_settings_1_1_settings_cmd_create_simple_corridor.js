@@ -1,0 +1,5 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_simple_corridor =
+[
+    [ "SettingsCmdAssemblyInsertion", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_simple_corridor_1_1_settings_cmd_assembly_insertion.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_simple_corridor_1_1_settings_cmd_assembly_insertion" ],
+    [ "AssemblyInsertion", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_simple_corridor.html#a5a81b8ef13c3bf3c5ab60a4f4c47e6aa", null ]
+];

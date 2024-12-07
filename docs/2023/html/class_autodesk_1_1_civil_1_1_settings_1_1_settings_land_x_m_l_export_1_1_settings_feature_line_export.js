@@ -1,0 +1,5 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_land_x_m_l_export_1_1_settings_feature_line_export =
+[
+    [ "FeatureLineAddNameToUnNamed", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_land_x_m_l_export_1_1_settings_feature_line_export.html#a946d34243fb2f1841ce011e63013e10d", null ],
+    [ "NewNameTemplate", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_land_x_m_l_export_1_1_settings_feature_line_export.html#ab173ab9fbc363f3ae2e707d5caf6a123", null ]
+];

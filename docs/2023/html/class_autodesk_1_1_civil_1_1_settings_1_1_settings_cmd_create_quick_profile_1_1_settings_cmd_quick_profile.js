@@ -1,0 +1,5 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_quick_profile_1_1_settings_cmd_quick_profile =
+[
+    [ "Draw3DEntityProfile", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_quick_profile_1_1_settings_cmd_quick_profile.html#a55625c1c98ab854df7c6508fc2a43c08", null ],
+    [ "SelectAllSurfaces", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_quick_profile_1_1_settings_cmd_quick_profile.html#a7374fe5a7d2c94608f0ab5c142536db4", null ]
+];

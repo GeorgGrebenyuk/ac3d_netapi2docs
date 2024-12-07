@@ -1,0 +1,5 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_surface_fig_survey_query =
+[
+    [ "SettingsCmdAddDataOptions", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_surface_fig_survey_query_1_1_settings_cmd_add_data_options.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_surface_fig_survey_query_1_1_settings_cmd_add_data_options" ],
+    [ "DataOptions", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_surface_fig_survey_query.html#aca5292e434dd39a2129a9077a3923fac", null ]
+];

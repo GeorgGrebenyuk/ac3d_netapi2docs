@@ -1,0 +1,5 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_interference_check =
+[
+    [ "SettingsCmdInterferenceCriteria", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_interference_check_1_1_settings_cmd_interference_criteria.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_interference_check_1_1_settings_cmd_interference_criteria" ],
+    [ "InterferenceCriteria", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_interference_check.html#a4fae2d34979426ca7049d105d01aef07", null ]
+];

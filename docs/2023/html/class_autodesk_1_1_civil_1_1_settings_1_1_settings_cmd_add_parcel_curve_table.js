@@ -1,0 +1,5 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_parcel_curve_table =
+[
+    [ "SettingsCmdTableCreation", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_parcel_curve_table_1_1_settings_cmd_table_creation.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_parcel_curve_table_1_1_settings_cmd_table_creation" ],
+    [ "TableCreation", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_parcel_curve_table.html#ada090802d7dcabb1a71aafc84633d1ae", null ]
+];

@@ -1,0 +1,4 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parcel_r_o_w_1_1_settings_cmd_create_parcel_right_of_way =
+[
+    [ "OffsetFromAlignment", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parcel_r_o_w_1_1_settings_cmd_create_parcel_right_of_way.html#a6831e8bc833e9e09a0b5bbdc2c8e4e3d", null ]
+];

@@ -1,0 +1,12 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_pressure_network_1_1_settings_profile_label_placement =
+[
+    [ "DimensionAnchorElevationValueForAppurtenances", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_pressure_network_1_1_settings_profile_label_placement.html#abbc8e1b8e8652b31abbdfad78b4793bd", null ],
+    [ "DimensionAnchorElevationValueForFittings", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_pressure_network_1_1_settings_profile_label_placement.html#a71345bd4dbf948cf68da1b573a0d84da", null ],
+    [ "DimensionAnchorElevationValueForPressurePipes", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_pressure_network_1_1_settings_profile_label_placement.html#a46a3d78de1ccf8fd7c46af33e6257e72", null ],
+    [ "DimensionAnchorOptionForAppurtenances", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_pressure_network_1_1_settings_profile_label_placement.html#ab7cd1e6f22e338f55a3c33b960edd962", null ],
+    [ "DimensionAnchorOptionForFittings", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_pressure_network_1_1_settings_profile_label_placement.html#ade388c8550fb7f89bec20ee3d2cb3428", null ],
+    [ "DimensionAnchorOptionForPressurePipes", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_pressure_network_1_1_settings_profile_label_placement.html#adfda4f21ad323687c59f1be23148df0d", null ],
+    [ "DimensionAnchorPlotHeightValueForAppurtenances", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_pressure_network_1_1_settings_profile_label_placement.html#a4f16e5f222a14c69dca25e25bb61f490", null ],
+    [ "DimensionAnchorPlotHeightValueForFittings", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_pressure_network_1_1_settings_profile_label_placement.html#a10818c7bffe77995adf9fdce13e6eb94", null ],
+    [ "DimensionAnchorPlotHeightValueForPressurePipes", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_pressure_network_1_1_settings_profile_label_placement.html#ade22bc6bdb24d116afd8e4f0a58f2e78", null ]
+];

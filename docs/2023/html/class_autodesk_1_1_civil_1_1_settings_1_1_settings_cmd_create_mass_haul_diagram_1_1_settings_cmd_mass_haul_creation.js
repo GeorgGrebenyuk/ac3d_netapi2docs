@@ -1,0 +1,6 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_mass_haul_diagram_1_1_settings_cmd_mass_haul_creation =
+[
+    [ "BorrowPitCapacity", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_mass_haul_diagram_1_1_settings_cmd_mass_haul_creation.html#a5a8ae2ec8db295397952d61931f1ec01", null ],
+    [ "DumpSiteCapacity", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_mass_haul_diagram_1_1_settings_cmd_mass_haul_creation.html#a5bfd0a0768adc3356d49a869c6c17dc4", null ],
+    [ "FreeHaulDistance", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_mass_haul_diagram_1_1_settings_cmd_mass_haul_creation.html#ad13d7ca7166f04a1f50e5d5786545a0a", null ]
+];

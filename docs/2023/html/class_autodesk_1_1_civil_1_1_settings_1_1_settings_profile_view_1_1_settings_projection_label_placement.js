@@ -1,0 +1,6 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_profile_view_1_1_settings_projection_label_placement =
+[
+    [ "DimensionAnchorElevationValueForProjections", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_profile_view_1_1_settings_projection_label_placement.html#a12188b6ffbcb5796becfeeca0cb6b04d", null ],
+    [ "DimensionAnchorOption", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_profile_view_1_1_settings_projection_label_placement.html#a47c11787eadffc402d088c866f26af15", null ],
+    [ "DimensionAnchorPlotHeightValueForProjections", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_profile_view_1_1_settings_projection_label_placement.html#ae8887a1d536579c9be036105e2239d1f", null ]
+];

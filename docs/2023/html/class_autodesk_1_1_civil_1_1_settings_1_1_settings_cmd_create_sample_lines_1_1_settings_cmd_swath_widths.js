@@ -1,0 +1,5 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_sample_lines_1_1_settings_cmd_swath_widths =
+[
+    [ "LeftSwathWidth", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_sample_lines_1_1_settings_cmd_swath_widths.html#a01c91917255a0a1323126434954bd49e", null ],
+    [ "RightSwathWidth", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_sample_lines_1_1_settings_cmd_swath_widths.html#a5a33134346e75e9a626560968518ec28", null ]
+];

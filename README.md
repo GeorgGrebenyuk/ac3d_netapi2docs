@@ -1,8 +1,8 @@
 # ac3d_netapi2docs
 The help documentation for AutoCAD Civil 3D .NET API (create from product's dll via Doxygen)
 
-To show generated online-docs visit page: 
-To show local-documentation (\*.CHM) vitit page: 
+To show generated online-docs visit page: [https://georggrebenyuk.github.io/ac3d_netapi2docs/](https://georggrebenyuk.github.io/ac3d_netapi2docs/docs/docs_index.md).
+To show local-documentation (\*.CHM) look folder `docs_chm`.
 
 # The structire of repo
 
@@ -13,7 +13,7 @@ To show local-documentation (\*.CHM) vitit page:
 - `src`: the directory with "source code" of AutoCAD Civil 3D .NET API, produced by reference assemblies and `dnSpy`-utility and cleaned by some auxiliary elements.
 
 - `ac3d_icon.png`: the icon for Doxygen's projects;
-`Doxyfile_ac3d_\*\*\*\*`: Doxygen's configs for create documentation for specific version of Civil 3D .NET API;
+`Doxyfile_ac3d`: Doxygen's configs for create documentation for specific version of Civil 3D .NET API;
 
 # Short guide how create docs for need VERSION manually
 

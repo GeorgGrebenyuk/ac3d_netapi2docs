@@ -1,0 +1,9 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_offset_alignment_1_1_settings_cmd_offset_alignment_options =
+[
+    [ "FromParentAlignmentStart", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_offset_alignment_1_1_settings_cmd_offset_alignment_options.html#aafde2cb3333c71791ede3775e80d1f2f", null ],
+    [ "IncrementalOffsetValueLeftSide", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_offset_alignment_1_1_settings_cmd_offset_alignment_options.html#afdcaaa6b7d6137aedc91063646976874", null ],
+    [ "IncrementalOffsetValueRightSide", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_offset_alignment_1_1_settings_cmd_offset_alignment_options.html#a8e4a9edf105a4b526cf9e7b7f89bf574", null ],
+    [ "NumberOfOffsetsLeftSide", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_offset_alignment_1_1_settings_cmd_offset_alignment_options.html#a6e2c9dc80142b27d5c518e345339690b", null ],
+    [ "NumberOfOffsetsRightSide", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_offset_alignment_1_1_settings_cmd_offset_alignment_options.html#ae2d358713a0c7f259ed5b71bb1c6ee22", null ],
+    [ "ToParentAlignmentEnd", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_offset_alignment_1_1_settings_cmd_offset_alignment_options.html#ab3476e208b2c57925ed2f7f69880e95f", null ]
+];

@@ -1,0 +1,26 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_profile_1_1_settings_profile_creation =
+[
+    [ "AsymmetricalCrestCurveLength1", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_profile_1_1_settings_profile_creation.html#ad3080d266e93eed001fda6eff2b0cdf6", null ],
+    [ "AsymmetricalCrestCurveLength2", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_profile_1_1_settings_profile_creation.html#abcbbbe9dd0f538971008e71753f2684f", null ],
+    [ "AsymmetricalSagCurveLength1", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_profile_1_1_settings_profile_creation.html#a2395e9c8979df9dcc7a15d6807f94c23", null ],
+    [ "AsymmetricalSagCurveLength2", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_profile_1_1_settings_profile_creation.html#aac35d715877a29cbe55fc661571bac8f", null ],
+    [ "CircularCrestCurveConstraint", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_profile_1_1_settings_profile_creation.html#a44f287d4327c63b2bfd19a6217d4fa05", null ],
+    [ "CircularCrestCurveLength", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_profile_1_1_settings_profile_creation.html#aa442789ef75ec9778ea5ccd9ab38cbbf", null ],
+    [ "CircularCrestCurveRadius", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_profile_1_1_settings_profile_creation.html#a6e846b6f38274b275e6dafa33a89ebb9", null ],
+    [ "CircularSagCurveConstraint", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_profile_1_1_settings_profile_creation.html#a08fe78f67b6763ac6051d1e5cc70940e", null ],
+    [ "CircularSagCurveLength", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_profile_1_1_settings_profile_creation.html#a5b6a27af3815cb7a6a42eecddeb2a6eb", null ],
+    [ "CircularSagCurveRadius", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_profile_1_1_settings_profile_creation.html#a3e224655290144b4ecd6d4a2c19504c5", null ],
+    [ "DefaultVerticalCurve", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_profile_1_1_settings_profile_creation.html#ab4362433d9c5cfae26f47de4722b273f", null ],
+    [ "HeadlightAngle", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_profile_1_1_settings_profile_creation.html#a8839ddc3b65605b8fff9200adcd974d4", null ],
+    [ "HeadlightHeight", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_profile_1_1_settings_profile_creation.html#a616ebe718736bceb2cc3c754979911af", null ],
+    [ "ParabolicCrestCurveKValue", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_profile_1_1_settings_profile_creation.html#a1911f678f4e9b4bb3a1b5770469aaf74", null ],
+    [ "ParabolicCrestCurveLength", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_profile_1_1_settings_profile_creation.html#a52e4f6b721e66f7f7396cdc25ad7d587", null ],
+    [ "ParabolicCrestVerticalConstraint", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_profile_1_1_settings_profile_creation.html#a8dd64ad57831472a5d26a86ee88b739e", null ],
+    [ "ParabolicSagCurveKValue", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_profile_1_1_settings_profile_creation.html#a68fb9cd1ecd6b74d3ab105b650c519eb", null ],
+    [ "ParabolicSagCurveLength", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_profile_1_1_settings_profile_creation.html#aedd1cc4dff5e6799b80fe3eacb891985", null ],
+    [ "ParabolicSagVerticalConstraint", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_profile_1_1_settings_profile_creation.html#a9954b0fc877407099097541e3ef3af53", null ],
+    [ "PassingEyeHeight", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_profile_1_1_settings_profile_creation.html#a36dd0141ee8b5bba6b7be8fd807b8ee8", null ],
+    [ "PassingObjectHeight", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_profile_1_1_settings_profile_creation.html#a1087ba596443900bbf42cade8e611549", null ],
+    [ "StopEyeHeight", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_profile_1_1_settings_profile_creation.html#a3f32f0d11c294e1643bd9b9ba493029e", null ],
+    [ "StopObjectHeight", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_profile_1_1_settings_profile_creation.html#a8e806d0cc11ad4fe2c7033ef1f5af6a8", null ]
+];

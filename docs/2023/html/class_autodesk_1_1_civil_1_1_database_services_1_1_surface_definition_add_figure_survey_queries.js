@@ -1,0 +1,4 @@
+var class_autodesk_1_1_civil_1_1_database_services_1_1_surface_definition_add_figure_survey_queries =
+[
+    [ "AddFigureSurveyQuery", "class_autodesk_1_1_civil_1_1_database_services_1_1_surface_definition_add_figure_survey_queries.html#a7d8390da54b173350b6af02b60c2bba0", null ]
+];

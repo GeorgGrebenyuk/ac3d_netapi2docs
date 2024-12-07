@@ -1,0 +1,5 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_arc_by_best_fit_1_1_settings_cmd_curve_tessellation_option =
+[
+    [ "MidOrdinateTolerance", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_arc_by_best_fit_1_1_settings_cmd_curve_tessellation_option.html#a4d74df465f983a4c12f285913f2c13db", null ],
+    [ "TessellateCurve", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_arc_by_best_fit_1_1_settings_cmd_curve_tessellation_option.html#a032811e58cff5b1a4c88605895aed3ec", null ]
+];

@@ -1,0 +1,4 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_point_1_1_settings_update_points =
+[
+    [ "AllowCheckedInPointsToBeModified", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_point_1_1_settings_update_points.html#ae7c08f255bfa45539009cb558838fd51", null ]
+];

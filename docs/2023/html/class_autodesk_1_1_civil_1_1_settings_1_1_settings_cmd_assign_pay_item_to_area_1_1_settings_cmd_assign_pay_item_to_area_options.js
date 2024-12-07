@@ -1,0 +1,6 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_assign_pay_item_to_area_1_1_settings_cmd_assign_pay_item_to_area_options =
+[
+    [ "ColorForHatch", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_assign_pay_item_to_area_1_1_settings_cmd_assign_pay_item_to_area_options.html#ae216c07af6f9c21ba922c06a06c65f52", null ],
+    [ "LayerForHatch", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_assign_pay_item_to_area_1_1_settings_cmd_assign_pay_item_to_area_options.html#af248d91ee8fa75dc3730d3624643af23", null ],
+    [ "UseAcadLayerAndColor", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_assign_pay_item_to_area_1_1_settings_cmd_assign_pay_item_to_area_options.html#a0c04f2f450e1af61cd8482b92d703d37", null ]
+];

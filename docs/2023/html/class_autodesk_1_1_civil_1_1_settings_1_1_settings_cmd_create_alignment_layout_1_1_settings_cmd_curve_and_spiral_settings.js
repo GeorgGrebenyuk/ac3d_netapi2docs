@@ -1,0 +1,12 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_alignment_layout_1_1_settings_cmd_curve_and_spiral_settings =
+[
+    [ "CurveRadiusForSCSGroup", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_alignment_layout_1_1_settings_cmd_curve_and_spiral_settings.html#a8e880c3b7f58e7e3fe04bc36d155ed23", null ],
+    [ "SpiralInAValue", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_alignment_layout_1_1_settings_cmd_curve_and_spiral_settings.html#a77c3ec1651fa506cf119267d4893d45f", null ],
+    [ "SpiralInLength", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_alignment_layout_1_1_settings_cmd_curve_and_spiral_settings.html#a6151a3286d881d3d434ca24b83384fa9", null ],
+    [ "SpiralOutAValue", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_alignment_layout_1_1_settings_cmd_curve_and_spiral_settings.html#aa0e1a16a1b7886ab45f2427e697bab12", null ],
+    [ "SpiralOutLength", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_alignment_layout_1_1_settings_cmd_curve_and_spiral_settings.html#a498f04f92ee68afbae9639cd00e5f075", null ],
+    [ "SpiralType", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_alignment_layout_1_1_settings_cmd_curve_and_spiral_settings.html#a592e959dace7e515bd3d026aee435654", null ],
+    [ "UseCurve", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_alignment_layout_1_1_settings_cmd_curve_and_spiral_settings.html#aa5c8c341c2a79286da3b55ec1a7422ae", null ],
+    [ "UseSpiralIn", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_alignment_layout_1_1_settings_cmd_curve_and_spiral_settings.html#a8a1da73eb2c62a0e391f4cc17bbf4071", null ],
+    [ "UseSpiralOut", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_alignment_layout_1_1_settings_cmd_curve_and_spiral_settings.html#a6c50211bd8dfbc70b733230e5b5b3215", null ]
+];

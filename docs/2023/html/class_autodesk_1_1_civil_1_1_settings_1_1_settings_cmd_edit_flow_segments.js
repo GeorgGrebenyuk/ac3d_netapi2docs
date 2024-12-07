@@ -1,0 +1,9 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_edit_flow_segments =
+[
+    [ "SettingsCmdChannelFlow", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_edit_flow_segments_1_1_settings_cmd_channel_flow.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_edit_flow_segments_1_1_settings_cmd_channel_flow" ],
+    [ "SettingsCmdShallowConcentratedFlow", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_edit_flow_segments_1_1_settings_cmd_shallow_concentrated_flow.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_edit_flow_segments_1_1_settings_cmd_shallow_concentrated_flow" ],
+    [ "SettingsCmdSheetFlow", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_edit_flow_segments_1_1_settings_cmd_sheet_flow.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_edit_flow_segments_1_1_settings_cmd_sheet_flow" ],
+    [ "ChannelFlow", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_edit_flow_segments.html#a827d7526ccd7174a18e0494a77287119", null ],
+    [ "ShallowConcentratedFlow", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_edit_flow_segments.html#ab1baf0fb461791afaf5b9c5769447718", null ],
+    [ "SheetFlow", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_edit_flow_segments.html#a9b586fe2b1bba1250000b6aa12a1b328", null ]
+];

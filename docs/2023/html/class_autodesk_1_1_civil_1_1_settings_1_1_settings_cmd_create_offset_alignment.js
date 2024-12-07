@@ -1,0 +1,5 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_offset_alignment =
+[
+    [ "SettingsCmdOffsetAlignmentOptions", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_offset_alignment_1_1_settings_cmd_offset_alignment_options.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_offset_alignment_1_1_settings_cmd_offset_alignment_options" ],
+    [ "OffsetAlignmentOptions", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_offset_alignment.html#a4d53b5c12994e30b984b1a22591afdcd", null ]
+];

@@ -1,0 +1,5 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_surface_dem_file_1_1_settings_cmd_import_options =
+[
+    [ "NullElevation", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_surface_dem_file_1_1_settings_cmd_import_options.html#a63a36e6bd2c4073dd9de41ad80feaaaf", null ],
+    [ "UseCustomNullElevation", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_surface_dem_file_1_1_settings_cmd_import_options.html#aed6dec3f9ffe2d551d0a8e703b45aa45", null ]
+];

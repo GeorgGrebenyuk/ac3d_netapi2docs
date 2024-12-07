@@ -1,0 +1,25 @@
+var class_autodesk_1_1_civil_1_1_database_services_1_1_alignment_sub_entity_spiral =
+[
+    [ "A", "class_autodesk_1_1_civil_1_1_database_services_1_1_alignment_sub_entity_spiral.html#a6729657cd3ac0cb250cb433ff77e52fd", null ],
+    [ "Compound", "class_autodesk_1_1_civil_1_1_database_services_1_1_alignment_sub_entity_spiral.html#a61ac5d08d5e9badc1b0cc9aa318c9936", null ],
+    [ "CurveType", "class_autodesk_1_1_civil_1_1_database_services_1_1_alignment_sub_entity_spiral.html#a0e50a2708563303b6d5c95ba26068e25", null ],
+    [ "Delta", "class_autodesk_1_1_civil_1_1_database_services_1_1_alignment_sub_entity_spiral.html#ad477d1feb555bb9d7c6223d060449482", null ],
+    [ "Direction", "class_autodesk_1_1_civil_1_1_database_services_1_1_alignment_sub_entity_spiral.html#ac4fa6be12f51035b80aaee8865e9114a", null ],
+    [ "EndDirection", "class_autodesk_1_1_civil_1_1_database_services_1_1_alignment_sub_entity_spiral.html#a1ae4a9e6811de08587cc2102eac00bde", null ],
+    [ "K", "class_autodesk_1_1_civil_1_1_database_services_1_1_alignment_sub_entity_spiral.html#aa7d65981ad94178100926e0118ce1834", null ],
+    [ "LongTangent", "class_autodesk_1_1_civil_1_1_database_services_1_1_alignment_sub_entity_spiral.html#a1f4e45195879b000eb4af46b19de937f", null ],
+    [ "MinimumTransitionLength", "class_autodesk_1_1_civil_1_1_database_services_1_1_alignment_sub_entity_spiral.html#a3e9f3f50f0465ace37bee809e18f0482", null ],
+    [ "P", "class_autodesk_1_1_civil_1_1_database_services_1_1_alignment_sub_entity_spiral.html#af50b35c5926aa2d58c59cb09cec8abab", null ],
+    [ "RadialPoint", "class_autodesk_1_1_civil_1_1_database_services_1_1_alignment_sub_entity_spiral.html#a079e6ddefd9e69d7e7eba5de8e352504", null ],
+    [ "RadiusIn", "class_autodesk_1_1_civil_1_1_database_services_1_1_alignment_sub_entity_spiral.html#a268f4ea106bb5ca8c04787e5e8f7af57", null ],
+    [ "RadiusOut", "class_autodesk_1_1_civil_1_1_database_services_1_1_alignment_sub_entity_spiral.html#a03c35854a470a1cbc4858b6c85555100", null ],
+    [ "ShortTangent", "class_autodesk_1_1_civil_1_1_database_services_1_1_alignment_sub_entity_spiral.html#aa8f90aab16d1c955ac4d2d8310006456", null ],
+    [ "SPIAngle", "class_autodesk_1_1_civil_1_1_database_services_1_1_alignment_sub_entity_spiral.html#a76d5dfbd5cda0e99f5d65b080f0bc448", null ],
+    [ "SPIPoint", "class_autodesk_1_1_civil_1_1_database_services_1_1_alignment_sub_entity_spiral.html#accb2442eb6362918ac5dd1382df52ae3", null ],
+    [ "SpiralDefinition", "class_autodesk_1_1_civil_1_1_database_services_1_1_alignment_sub_entity_spiral.html#ae82819bbd1a358c726f17cfc725dd25b", null ],
+    [ "SPIStation", "class_autodesk_1_1_civil_1_1_database_services_1_1_alignment_sub_entity_spiral.html#abab2ed11b941e7317cc61a6221d2a978", null ],
+    [ "StartDirection", "class_autodesk_1_1_civil_1_1_database_services_1_1_alignment_sub_entity_spiral.html#af8a24de6aebc3aa12893b58c4d6f68c0", null ],
+    [ "SubEntityType", "class_autodesk_1_1_civil_1_1_database_services_1_1_alignment_sub_entity_spiral.html#a83b0bbf94686f4308b9e005ac5e37edc", null ],
+    [ "TotalX", "class_autodesk_1_1_civil_1_1_database_services_1_1_alignment_sub_entity_spiral.html#adaabed291223a7983ecb9ef7492e91bb", null ],
+    [ "TotalY", "class_autodesk_1_1_civil_1_1_database_services_1_1_alignment_sub_entity_spiral.html#a2a6599792e8efcccef6a287fd69d129f", null ]
+];

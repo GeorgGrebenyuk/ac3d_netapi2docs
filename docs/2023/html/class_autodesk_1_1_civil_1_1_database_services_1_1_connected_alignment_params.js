@@ -1,0 +1,25 @@
+var class_autodesk_1_1_civil_1_1_database_services_1_1_connected_alignment_params =
+[
+    [ "ConnectedAlignmentParams", "class_autodesk_1_1_civil_1_1_database_services_1_1_connected_alignment_params.html#afab83d7e9fa0709d602986757f95d19a", null ],
+    [ "ArcInLength", "class_autodesk_1_1_civil_1_1_database_services_1_1_connected_alignment_params.html#a01c3cbadd5bb565e7e8565c7e0a42264", null ],
+    [ "ArcInRadius", "class_autodesk_1_1_civil_1_1_database_services_1_1_connected_alignment_params.html#a2462996a4b806bf76732e4aad30f16c0", null ],
+    [ "ArcMiddleRadius", "class_autodesk_1_1_civil_1_1_database_services_1_1_connected_alignment_params.html#a07e62852a2cac2c1bacf7f6a703f052f", null ],
+    [ "ArcOutLength", "class_autodesk_1_1_civil_1_1_database_services_1_1_connected_alignment_params.html#a2361c24e43b32f605be7864b7925490b", null ],
+    [ "ArcOutRadius", "class_autodesk_1_1_civil_1_1_database_services_1_1_connected_alignment_params.html#a22b22946c2c6b4c128e66832ff9d0d20", null ],
+    [ "ConnectionOverlapLengthIn", "class_autodesk_1_1_civil_1_1_database_services_1_1_connected_alignment_params.html#a39a581d272f03e2749a3119a8284f44e", null ],
+    [ "ConnectionOverlapLengthOut", "class_autodesk_1_1_civil_1_1_database_services_1_1_connected_alignment_params.html#af1cbdd224b04b96589a263968f3c8f20", null ],
+    [ "CurveGroupType", "class_autodesk_1_1_civil_1_1_database_services_1_1_connected_alignment_params.html#a2c2ecca8a65f86105049a10891975ad0", null ],
+    [ "CurveRadius", "class_autodesk_1_1_civil_1_1_database_services_1_1_connected_alignment_params.html#abf92c61484f3cb4d845fccf530d70739", null ],
+    [ "GreaterThan180", "class_autodesk_1_1_civil_1_1_database_services_1_1_connected_alignment_params.html#a53b45b580ea0cb361e3dc5110781da02", null ],
+    [ "IncomingParentAlignmentId", "class_autodesk_1_1_civil_1_1_database_services_1_1_connected_alignment_params.html#afdefa7384d75abc28c7164047f74ca06", null ],
+    [ "IncomingParentAlignmentStation", "class_autodesk_1_1_civil_1_1_database_services_1_1_connected_alignment_params.html#afed33ff731357c7572efb9db11ff354a", null ],
+    [ "OffsetIn", "class_autodesk_1_1_civil_1_1_database_services_1_1_connected_alignment_params.html#af4c99219385427d5912b256b28e49686", null ],
+    [ "OffsetOut", "class_autodesk_1_1_civil_1_1_database_services_1_1_connected_alignment_params.html#af906e274e6b8a1f36f617ec352c947b9", null ],
+    [ "OutgoingParentAlignmentId", "class_autodesk_1_1_civil_1_1_database_services_1_1_connected_alignment_params.html#ac50f702860f309b80a5345cadfe5654f", null ],
+    [ "OutgoingParentAlignmentStation", "class_autodesk_1_1_civil_1_1_database_services_1_1_connected_alignment_params.html#aee64208214dc0cfb634a98d2a442286f", null ],
+    [ "ReverseSpiralInLength", "class_autodesk_1_1_civil_1_1_database_services_1_1_connected_alignment_params.html#a5abf08e3b860ff4ba0f1da4521da0afd", null ],
+    [ "ReverseSpiralOutLength", "class_autodesk_1_1_civil_1_1_database_services_1_1_connected_alignment_params.html#a6d7c2503b0346faa909bafdf569f4c63", null ],
+    [ "SpiralDefinition", "class_autodesk_1_1_civil_1_1_database_services_1_1_connected_alignment_params.html#a38381129b6a7a5fd78b6707b4fed4cf4", null ],
+    [ "SpiralInLength", "class_autodesk_1_1_civil_1_1_database_services_1_1_connected_alignment_params.html#a95cb8ee2f9234e86012d72a5057c5a7f", null ],
+    [ "SpiralOutLength", "class_autodesk_1_1_civil_1_1_database_services_1_1_connected_alignment_params.html#aeadcce43aa0199b7f8b86b2cfa68f6e8", null ]
+];

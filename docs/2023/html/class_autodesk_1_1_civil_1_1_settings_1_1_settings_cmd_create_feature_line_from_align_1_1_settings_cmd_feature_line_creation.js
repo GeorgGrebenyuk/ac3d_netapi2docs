@@ -1,0 +1,10 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_feature_line_from_align_1_1_settings_cmd_feature_line_creation =
+[
+    [ "CreateDynamicLink", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_feature_line_from_align_1_1_settings_cmd_feature_line_creation.html#a922ea3cf1ed76e1d109bec4de8f2c164", null ],
+    [ "LayerSetting", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_feature_line_from_align_1_1_settings_cmd_feature_line_creation.html#a5b42a041c46dbdb8c5bfc4c97f2d56ce", null ],
+    [ "MidOrdinateDistance", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_feature_line_from_align_1_1_settings_cmd_feature_line_creation.html#a7eb9a57914f2a76510deb71afd54fc91", null ],
+    [ "SpiralTessellationFactor", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_feature_line_from_align_1_1_settings_cmd_feature_line_creation.html#a4085309cd042b6131258f940fca63b85", null ],
+    [ "UseFeatureLineName", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_feature_line_from_align_1_1_settings_cmd_feature_line_creation.html#adab14943762687de88e9190db9e9dcc0", null ],
+    [ "UseFeatureLineStyle", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_feature_line_from_align_1_1_settings_cmd_feature_line_creation.html#a8c6d5e709bda54b2c78f5dfd6adce2db", null ],
+    [ "WeedPoints", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_feature_line_from_align_1_1_settings_cmd_feature_line_creation.html#a7daed5e7b8ee4e3fab78b296ee9f6cac", null ]
+];

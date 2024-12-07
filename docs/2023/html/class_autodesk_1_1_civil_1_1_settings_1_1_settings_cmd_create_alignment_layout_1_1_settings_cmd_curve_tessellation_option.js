@@ -1,0 +1,5 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_alignment_layout_1_1_settings_cmd_curve_tessellation_option =
+[
+    [ "MidOrdinateTolerance", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_alignment_layout_1_1_settings_cmd_curve_tessellation_option.html#a47ae9279faacce05aa759a4367e93204", null ],
+    [ "TessellateCurve", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_alignment_layout_1_1_settings_cmd_curve_tessellation_option.html#a3f34659f4b8e0c01d30cf91b4add69ae", null ]
+];

@@ -1,0 +1,5 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_profile_from_corridor =
+[
+    [ "SettingsCmdCriteriaBasedDesignOptions", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_profile_from_corridor_1_1_settings005c9bb5b65187628ae1736bf9dae5f0.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_profile_from_corridor_1_1_settings005c9bb5b65187628ae1736bf9dae5f0" ],
+    [ "CriteriaBasedDesignOptions", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_profile_from_corridor.html#ae4e8693ae6290f7a3f69870f2ed61792", null ]
+];

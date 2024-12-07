@@ -1,0 +1,6 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_alignment_entities_1_1_settings_cmd_create_from_entities =
+[
+    [ "AddCurveBetweenTangents", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_alignment_entities_1_1_settings_cmd_create_from_entities.html#ae66aaf05c996f07f8f4762ae4f2bfb86", null ],
+    [ "EraseExistingEntities", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_alignment_entities_1_1_settings_cmd_create_from_entities.html#ab5d7cb0c15cbfa0fc0cfeea1c322fbb9", null ],
+    [ "Radius", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_alignment_entities_1_1_settings_cmd_create_from_entities.html#a49fe7fbdf6a0bc9504d0a404ab58cfeb", null ]
+];

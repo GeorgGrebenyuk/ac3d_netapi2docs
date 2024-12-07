@@ -1,0 +1,8 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_surface_grid_from_d_e_m_1_1_settings_cmd_build_options =
+[
+    [ "CopyDeletedDependentObjects", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_surface_grid_from_d_e_m_1_1_settings_cmd_build_options.html#a7e0d5ea1fd6fb2ad58e842a3addb2a89", null ],
+    [ "ElevationGreaterThan", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_surface_grid_from_d_e_m_1_1_settings_cmd_build_options.html#a99b319f35c5e5d316967777600998940", null ],
+    [ "ElevationLessThan", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_surface_grid_from_d_e_m_1_1_settings_cmd_build_options.html#aa29a9f3ddfb366b25fec369f3a64a436", null ],
+    [ "ExcludeElevationsGreaterThan", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_surface_grid_from_d_e_m_1_1_settings_cmd_build_options.html#a233dc9cd50c061f2faba462b72c17a77", null ],
+    [ "ExcludeElevationsLessThan", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_surface_grid_from_d_e_m_1_1_settings_cmd_build_options.html#a5163c12963e1dbe8cba5dda14c2e32e8", null ]
+];

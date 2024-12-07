@@ -1,0 +1,5 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_fit_curve_feature_1_1_settings_cmd_feature_line_fit_curve =
+[
+    [ "MinimumNumberOfSegments", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_fit_curve_feature_1_1_settings_cmd_feature_line_fit_curve.html#ae057e54877c062b4aaf7c1265033a530", null ],
+    [ "Tolerance", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_fit_curve_feature_1_1_settings_cmd_feature_line_fit_curve.html#ac051c511bbeeb828d12783d83f60cf03", null ]
+];

@@ -1,0 +1,7 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_widening =
+[
+    [ "SettingsCmdLinearTransitionAroundCurves", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_widening_1_1_settings_cmd_linear_transition_around_curves.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_widening_1_1_settings_cmd_linear_transition_around_curves" ],
+    [ "SettingsCmdWideningOptions", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_widening_1_1_settings_cmd_widening_options.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_widening_1_1_settings_cmd_widening_options" ],
+    [ "LinearTransitionAroundCurves", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_widening.html#acce8b901de706cfdcfbde6315e5ba188", null ],
+    [ "WideningOptions", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_widening.html#a77d835c06423b43a03c134c8ae0ac466", null ]
+];

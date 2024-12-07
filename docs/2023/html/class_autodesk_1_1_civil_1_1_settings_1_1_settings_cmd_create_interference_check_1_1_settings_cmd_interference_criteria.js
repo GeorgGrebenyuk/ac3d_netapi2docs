@@ -1,0 +1,7 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_interference_check_1_1_settings_cmd_interference_criteria =
+[
+    [ "Apply3DProximityCheck", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_interference_check_1_1_settings_cmd_interference_criteria.html#a146780a0e95f54a7d1a9957f11de2c38", null ],
+    [ "Distance", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_interference_check_1_1_settings_cmd_interference_criteria.html#addf54a855062653fac64de41ff900964", null ],
+    [ "ScaleFactor", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_interference_check_1_1_settings_cmd_interference_criteria.html#a9e25ea53ff278500bb9962c024aa231a", null ],
+    [ "UseDistanceOrScaleFactor", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_interference_check_1_1_settings_cmd_interference_criteria.html#a5b6528d91108f85ca9d16418b259445b", null ]
+];

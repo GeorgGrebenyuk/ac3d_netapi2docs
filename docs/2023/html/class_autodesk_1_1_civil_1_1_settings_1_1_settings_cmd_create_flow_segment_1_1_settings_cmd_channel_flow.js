@@ -1,0 +1,5 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_flow_segment_1_1_settings_cmd_channel_flow =
+[
+    [ "CrossSectionalArea", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_flow_segment_1_1_settings_cmd_channel_flow.html#acc424ecde60cd8e6195adfeb1e5109cc", null ],
+    [ "WetPerimeter", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_flow_segment_1_1_settings_cmd_channel_flow.html#abb25c7fabddeb8f69ad0dda543bd203c", null ]
+];

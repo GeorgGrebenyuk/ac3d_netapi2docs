@@ -1,0 +1,4 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_pipe_network_1_1_settings_default =
+[
+    [ "UsePartListDescriptionForNewParts", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_pipe_network_1_1_settings_default.html#a3ea71c6bf76f5c14b3e862812cb0849c", null ]
+];

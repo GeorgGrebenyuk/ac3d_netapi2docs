@@ -1,0 +1,7 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_volumes_dashboard_1_1_settings_cmd_dynamic_highlight_options =
+[
+    [ "BoundaryPolygonColor", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_volumes_dashboard_1_1_settings_cmd_dynamic_highlight_options.html#af4b64b6fc652bdd8886de3de23731e9e", null ],
+    [ "BoundaryPolygonlineweight", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_volumes_dashboard_1_1_settings_cmd_dynamic_highlight_options.html#a5e506e85b406bf7c7d4ee76acb752b97", null ],
+    [ "SurfaceBorderColor", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_volumes_dashboard_1_1_settings_cmd_dynamic_highlight_options.html#aea68c93b03b46a01be74f187258c1255", null ],
+    [ "SurfaceBorderLineweight", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_volumes_dashboard_1_1_settings_cmd_dynamic_highlight_options.html#aac725dbf910239d7c96fc8b6d5506fa5", null ]
+];

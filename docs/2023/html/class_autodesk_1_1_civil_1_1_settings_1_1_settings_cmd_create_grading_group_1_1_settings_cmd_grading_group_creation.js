@@ -1,0 +1,9 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_grading_group_1_1_settings_cmd_grading_group_creation =
+[
+    [ "GradingSurfaceCreation", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_grading_group_1_1_settings_cmd_grading_group_creation.html#a98bfeff022d91d51d851465c16e63263", null ],
+    [ "SurfaceConeTessellationAngle", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_grading_group_1_1_settings_cmd_grading_group_creation.html#a0d511ead0780b3eab8fa000ab9fe0856", null ],
+    [ "SurfaceStyle", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_grading_group_1_1_settings_cmd_grading_group_creation.html#a66159699b0dba9f242c3c4598d18d69c", null ],
+    [ "SurfaceStyleId", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_grading_group_1_1_settings_cmd_grading_group_creation.html#a5025f67040543417a23457e8e7e66df5", null ],
+    [ "SurfaceTessellationIncrement", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_grading_group_1_1_settings_cmd_grading_group_creation.html#a978914814363a5fdc7883dceca872dd7", null ],
+    [ "UseGroupName", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_grading_group_1_1_settings_cmd_grading_group_creation.html#ad1ec54d218ad205a0ecddb48b639ba60", null ]
+];

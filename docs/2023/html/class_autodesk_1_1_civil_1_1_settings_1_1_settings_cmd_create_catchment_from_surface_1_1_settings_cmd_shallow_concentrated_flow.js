@@ -1,0 +1,6 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_catchment_from_surface_1_1_settings_cmd_shallow_concentrated_flow =
+[
+    [ "Length", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_catchment_from_surface_1_1_settings_cmd_shallow_concentrated_flow.html#aa79e751f929ae8af1ddb5413f79bce87", null ],
+    [ "Segments", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_catchment_from_surface_1_1_settings_cmd_shallow_concentrated_flow.html#a7f60ca51606a77b0d8633f278861986f", null ],
+    [ "SurfaceType", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_catchment_from_surface_1_1_settings_cmd_shallow_concentrated_flow.html#aa16933fecbe06796973da4b2acb84d63", null ]
+];

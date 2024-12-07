@@ -1,0 +1,4 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_join_features_1_1_settings_cmd_feature_line_join =
+[
+    [ "Tolerance", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_join_features_1_1_settings_cmd_feature_line_join.html#a27159b1fed389b4b23453a112f498c4e", null ]
+];

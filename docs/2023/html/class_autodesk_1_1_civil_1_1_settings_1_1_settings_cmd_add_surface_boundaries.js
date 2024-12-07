@@ -1,0 +1,5 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_surface_boundaries =
+[
+    [ "SettingsCmdAddDataOptions", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_surface_boundaries_1_1_settings_cmd_add_data_options.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_surface_boundaries_1_1_settings_cmd_add_data_options" ],
+    [ "DataOptions", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_add_surface_boundaries.html#ac49a8806feeafcbaa0cc7cf199f449e8", null ]
+];

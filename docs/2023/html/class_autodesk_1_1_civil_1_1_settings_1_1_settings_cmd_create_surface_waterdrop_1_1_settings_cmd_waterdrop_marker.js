@@ -1,0 +1,6 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_surface_waterdrop_1_1_settings_cmd_waterdrop_marker =
+[
+    [ "PlaceMarkerAtStartPoint", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_surface_waterdrop_1_1_settings_cmd_waterdrop_marker.html#ae2cb666fdc40086167ed365e08355aed", null ],
+    [ "StartPointMarkerStyle", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_surface_waterdrop_1_1_settings_cmd_waterdrop_marker.html#a7caf9b3eedd191ca87598572a6c44c5a", null ],
+    [ "StartPointMarkerStyleId", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_surface_waterdrop_1_1_settings_cmd_waterdrop_marker.html#a85572ba092417c5c4d8d878b1a0c972c", null ]
+];

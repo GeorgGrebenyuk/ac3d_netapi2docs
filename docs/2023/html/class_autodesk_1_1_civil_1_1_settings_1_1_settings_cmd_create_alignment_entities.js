@@ -1,0 +1,7 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_alignment_entities =
+[
+    [ "SettingsCmdAlignmentTypeOption", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_alignment_entities_1_1_settings_cmd_alignment_type_option.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_alignment_entities_1_1_settings_cmd_alignment_type_option" ],
+    [ "SettingsCmdCreateFromEntities", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_alignment_entities_1_1_settings_cmd_create_from_entities.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_alignment_entities_1_1_settings_cmd_create_from_entities" ],
+    [ "AlignmentTypeOption", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_alignment_entities.html#a1ec1227e48775094aac51426fa91ffca", null ],
+    [ "CreateFromEntities", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_alignment_entities.html#a367c37dcccfc9322038b7108e743ea7a", null ]
+];

@@ -1,0 +1,5 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parcel_from_objects_1_1_settings_cmd_convert_from_entities =
+[
+    [ "AutoAddSegmentLabels", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parcel_from_objects_1_1_settings_cmd_convert_from_entities.html#aca35288ff2d4f5a045bb7aefa79a22e3", null ],
+    [ "EraseAllExistingEntities", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parcel_from_objects_1_1_settings_cmd_convert_from_entities.html#af32c6375129ecc839b30f2f87ac8816c", null ]
+];

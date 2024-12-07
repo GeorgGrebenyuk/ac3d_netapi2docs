@@ -1,0 +1,5 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_project_objects_to_multi_sect =
+[
+    [ "SettingsCmdObjectSelectionOptions", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_project_objects_to_multi_sect_1_1_settings_cmd_object_selection_options.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_project_objects_to_multi_sect_1_1_settings_cmd_object_selection_options" ],
+    [ "ObjectSelectionOptions", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_project_objects_to_multi_sect.html#aa36249c9f57fc58a0a4458817399feb6", null ]
+];

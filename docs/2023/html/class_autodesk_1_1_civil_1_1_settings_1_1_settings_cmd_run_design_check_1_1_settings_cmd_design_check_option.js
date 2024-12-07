@@ -1,0 +1,7 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_run_design_check_1_1_settings_cmd_design_check_option =
+[
+    [ "UseDeflectionValidation", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_run_design_check_1_1_settings_cmd_design_check_option.html#acc12184942f2267d4cd75be0e5c91ded", null ],
+    [ "UseDiameterValidation", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_run_design_check_1_1_settings_cmd_design_check_option.html#adcf2e479c22644a4e13f67392d85f415", null ],
+    [ "UseOpenConnectionValidation", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_run_design_check_1_1_settings_cmd_design_check_option.html#a360e671476e4f068ec57350cddf06387", null ],
+    [ "UseRadiusOfCurvatureValidation", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_run_design_check_1_1_settings_cmd_design_check_option.html#a77a0f9e6b806c1d8fe08579f05cc3bca", null ]
+];

@@ -1,0 +1,4 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_profile_from_surface_1_1_settings_cmd_geometry =
+[
+    [ "ProfileSampleOffsetsCommandSetting", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_profile_from_surface_1_1_settings_cmd_geometry.html#a3cf61ac3fa747931863c1bb11fb5361f", null ]
+];

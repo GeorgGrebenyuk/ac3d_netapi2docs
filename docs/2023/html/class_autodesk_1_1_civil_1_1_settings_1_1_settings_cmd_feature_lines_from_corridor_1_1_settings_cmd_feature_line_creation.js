@@ -1,0 +1,11 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_feature_lines_from_corridor_1_1_settings_cmd_feature_line_creation =
+[
+    [ "CreateDynamicLink", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_feature_lines_from_corridor_1_1_settings_cmd_feature_line_creation.html#a2493ce139d675f0859ea6eb40c2ca06c", null ],
+    [ "FeatureLineName", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_feature_lines_from_corridor_1_1_settings_cmd_feature_line_creation.html#a0382cc6e6a7bf2f871b21b0b05fc62c9", null ],
+    [ "HorizontalDeviation", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_feature_lines_from_corridor_1_1_settings_cmd_feature_line_creation.html#a25eb39cc147a629401321984ad7dedc4", null ],
+    [ "InclusionDistance", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_feature_lines_from_corridor_1_1_settings_cmd_feature_line_creation.html#a467a4da64fc2e31ccc5fdbe916acbc9e", null ],
+    [ "LayerSetting", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_feature_lines_from_corridor_1_1_settings_cmd_feature_line_creation.html#ae0e259847c54394a7024a800f7286528", null ],
+    [ "SmoothTheFeatureLine", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_feature_lines_from_corridor_1_1_settings_cmd_feature_line_creation.html#a68a705957e0092d3009f4c3b55461bf6", null ],
+    [ "UseFeatureLineStyle", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_feature_lines_from_corridor_1_1_settings_cmd_feature_line_creation.html#a189af7955489e716efa8ab72fadf5ca0", null ],
+    [ "WeedingDistance", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_feature_lines_from_corridor_1_1_settings_cmd_feature_line_creation.html#a75b92773e4396905833333f23a622edc", null ]
+];

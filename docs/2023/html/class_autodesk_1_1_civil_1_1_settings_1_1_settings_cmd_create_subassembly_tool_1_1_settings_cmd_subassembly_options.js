@@ -1,0 +1,9 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_subassembly_tool_1_1_settings_cmd_subassembly_options =
+[
+    [ "AssemblyGroupName", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_subassembly_tool_1_1_settings_cmd_subassembly_options.html#a4c732dcfbfbf33cab62de6955c24bc13", null ],
+    [ "AssemblyGroupNamePrompt", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_subassembly_tool_1_1_settings_cmd_subassembly_options.html#a4b6ed266ed203fde6a47a27b1583f718", null ],
+    [ "AutoDetectSide", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_subassembly_tool_1_1_settings_cmd_subassembly_options.html#a0cf2add145b211e2ad186e1af52e93fc", null ],
+    [ "CurrentSide", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_subassembly_tool_1_1_settings_cmd_subassembly_options.html#a89e25663b3f0ec530e37ec5b3e60585c", null ],
+    [ "SubassemblyName", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_subassembly_tool_1_1_settings_cmd_subassembly_options.html#aaed0069ce636b1b01f8fae2ab35224a1", null ],
+    [ "SubassemblyNamePrompt", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_subassembly_tool_1_1_settings_cmd_subassembly_options.html#ac321f8535d44aa2494d454bc83af803a", null ]
+];

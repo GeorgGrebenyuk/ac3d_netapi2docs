@@ -1,0 +1,12 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_intersection_1_1_settings_cmd_curb_return_parameters =
+[
+    [ "ChamferFilletLengthAlongIncomingLane", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_intersection_1_1_settings_cmd_curb_return_parameters.html#abd8793f63e7348a2c5927dfddc063765", null ],
+    [ "ChamferFilletLengthAlongOutgoingLane", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_intersection_1_1_settings_cmd_curb_return_parameters.html#a0fbab9ba6eb6520e1bfadc715168b7a8", null ],
+    [ "CircularFilletRadius", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_intersection_1_1_settings_cmd_curb_return_parameters.html#a3e866f48e3c6f6ed3be30d897aba0626", null ],
+    [ "CurbReturnType", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_intersection_1_1_settings_cmd_curb_return_parameters.html#a2a859a43e8685698aef2b54863d240cd", null ],
+    [ "LengthOfCurve1", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_intersection_1_1_settings_cmd_curb_return_parameters.html#a39ed22151c03a59182a64b687de4d30b", null ],
+    [ "LengthOfCurve3", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_intersection_1_1_settings_cmd_curb_return_parameters.html#aad1c6b1b3040e7f6be72841e49099261", null ],
+    [ "RadiusOfCurve1", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_intersection_1_1_settings_cmd_curb_return_parameters.html#a6d2ecc081dc60d3c548c59b4d0308a43", null ],
+    [ "RadiusOfCurve2", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_intersection_1_1_settings_cmd_curb_return_parameters.html#a755e664d0c8ea18d89fa9a5d4141c5e1", null ],
+    [ "RadiusOfCurve3", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_intersection_1_1_settings_cmd_curb_return_parameters.html#a7a19a676cda63964008bffba94c55f03", null ]
+];

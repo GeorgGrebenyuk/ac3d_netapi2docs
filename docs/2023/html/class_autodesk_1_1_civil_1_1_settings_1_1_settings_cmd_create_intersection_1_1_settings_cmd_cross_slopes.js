@@ -1,0 +1,7 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_intersection_1_1_settings_cmd_cross_slopes =
+[
+    [ "PrimaryRoadLeftCrossSlope", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_intersection_1_1_settings_cmd_cross_slopes.html#a4d355726316f726bd3df11751ae385bf", null ],
+    [ "PrimaryRoadRightCrossSlope", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_intersection_1_1_settings_cmd_cross_slopes.html#a1754ca04dea437eb516ba6eb3ac1c919", null ],
+    [ "SecondaryRoadLeftCrossSlope", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_intersection_1_1_settings_cmd_cross_slopes.html#a04242b446940cf8be1002b83fb8740d5", null ],
+    [ "SecondaryRoadRightCrossSlope", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_intersection_1_1_settings_cmd_cross_slopes.html#aa2fdadf0f378852744fdf76ab0c4d3fb", null ]
+];

@@ -1,0 +1,5 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_compute_materials_1_1_settings_cmd_define_material =
+[
+    [ "ApplyCurveCorrection", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_compute_materials_1_1_settings_cmd_define_material.html#a6782969dd6a09aaaa2fd67e62b811425", null ],
+    [ "CurveCorrectionTolerance", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_compute_materials_1_1_settings_cmd_define_material.html#a67ded25e339265f6ec098a5cec9a3ea1", null ]
+];

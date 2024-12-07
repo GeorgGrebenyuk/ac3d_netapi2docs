@@ -1,0 +1,5 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_fit_curve_feature =
+[
+    [ "SettingsCmdFeatureLineFitCurve", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_fit_curve_feature_1_1_settings_cmd_feature_line_fit_curve.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_fit_curve_feature_1_1_settings_cmd_feature_line_fit_curve" ],
+    [ "FeatureLineFitCurve", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_fit_curve_feature.html#a8a5815cdb1b9aa3056ae8ecc88ef826e", null ]
+];

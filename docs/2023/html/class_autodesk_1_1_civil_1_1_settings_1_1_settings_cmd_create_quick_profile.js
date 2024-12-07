@@ -1,0 +1,5 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_quick_profile =
+[
+    [ "SettingsCmdQuickProfile", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_quick_profile_1_1_settings_cmd_quick_profile.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_quick_profile_1_1_settings_cmd_quick_profile" ],
+    [ "QuickProfile", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_quick_profile.html#ae1701699c7aed0687c49ef94cf399ab3", null ]
+];

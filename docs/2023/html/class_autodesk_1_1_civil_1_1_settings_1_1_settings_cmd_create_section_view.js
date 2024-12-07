@@ -1,0 +1,5 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_section_view =
+[
+    [ "SettingsCmdTableCreation", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_section_view_1_1_settings_cmd_table_creation.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_section_view_1_1_settings_cmd_table_creation" ],
+    [ "TableCreation", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_section_view.html#ae7c7d96671e327281ed4643af4bac80c", null ]
+];

@@ -1,0 +1,5 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_superimpose_profile =
+[
+    [ "SettingsCmdSuperimposeProfileOption", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_superimpose_profile_1_1_settings_cmd_superimpose_profile_option.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_superimpose_profile_1_1_settings_cmd_superimpose_profile_option" ],
+    [ "SuperimposeProfile", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_superimpose_profile.html#aa7ee2e6be3becef4b1cb56959ed41720", null ]
+];

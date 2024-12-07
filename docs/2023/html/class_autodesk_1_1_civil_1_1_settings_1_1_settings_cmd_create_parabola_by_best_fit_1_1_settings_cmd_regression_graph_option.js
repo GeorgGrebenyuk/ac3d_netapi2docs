@@ -1,0 +1,4 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parabola_by_best_fit_1_1_settings_cmd_regression_graph_option =
+[
+    [ "SplineFitForRegressionAnalysisGraph", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_parabola_by_best_fit_1_1_settings_cmd_regression_graph_option.html#a89c9e974f0c93a305aa73eaea9d8e545", null ]
+];

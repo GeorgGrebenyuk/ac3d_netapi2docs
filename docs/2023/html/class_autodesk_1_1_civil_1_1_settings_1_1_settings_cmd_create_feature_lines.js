@@ -1,0 +1,5 @@
+var class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_feature_lines =
+[
+    [ "SettingsCmdFeatureLineCreation", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_feature_lines_1_1_settings_cmd_feature_line_creation.html", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_feature_lines_1_1_settings_cmd_feature_line_creation" ],
+    [ "FeatureLineCreation", "class_autodesk_1_1_civil_1_1_settings_1_1_settings_cmd_create_feature_lines.html#a6c7c3eae8a00d4dbcd1dcdfcb49b3a0c", null ]
+];
