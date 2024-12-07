@@ -1,7 +1,7 @@
 # ac3d_netapi2docs
 The help documentation for AutoCAD Civil 3D .NET API (create from product's dll via Doxygen)
 
-To show generated online-docs visit page: [https://georggrebenyuk.github.io/ac3d_netapi2docs/](https://georggrebenyuk.github.io/ac3d_netapi2docs/docs/docs_index.md).
+To show generated online-docs visit [page](docs/docs_index.md).
 To show local-documentation (\*.CHM) look folder `docs_chm`.
 
 # The structire of repo
