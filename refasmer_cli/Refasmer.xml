@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Refasmer</name>
+    </assembly>
+    <members>
+        <member name="T:JetBrains.Refasmer.Filters.PartialTypeFilterBase">
+            <summary>Base type for a filter that doesn't pass all types.</summary>
+            <param name="omitNonApiMembers">Whether the non-API types should be hidden when possible.</param>
+        </member>
+        <member name="M:JetBrains.Refasmer.Filters.PartialTypeFilterBase.#ctor(System.Boolean)">
+            <summary>Base type for a filter that doesn't pass all types.</summary>
+            <param name="omitNonApiMembers">Whether the non-API types should be hidden when possible.</param>
+        </member>
+        <member name="M:JetBrains.Refasmer.MetadataImporter.PostProcessSkippedValueTypeFields(System.Collections.Generic.List{System.Reflection.Metadata.FieldDefinition},System.Collections.Generic.List{System.Reflection.Metadata.FieldDefinition})">
+            <remarks>
+            The point of this method is to make a value type non-empty in case we've decided to skip all its fields.
+            </remarks>
+        </member>
+        <member name="M:JetBrains.Refasmer.MetadataImporter.MakeRefasm(System.Reflection.Metadata.MetadataReader,System.Reflection.PortableExecutable.PEReader,JetBrains.Refasmer.LoggerBase,JetBrains.Refasmer.Filters.IImportFilter,System.Nullable{System.Boolean},System.Boolean,System.Boolean)">
+             <summary>Produces a reference assembly for the passed input.</summary>
+             <param name="metaReader">Input assembly's metadata reader.</param>
+             <param name="peReader">Input file's PE structure reader.</param>
+             <param name="logger">Logger to write the process information to.</param>
+             <param name="filter">
+             Filter to apply to the assembly members. If <c>null</c> then will be auto-detected from the assembly
+             contents: for an assembly that has a <see cref="T:System.Runtime.CompilerServices.InternalsVisibleToAttribute"/> applied to it, use
+             <see cref="T:JetBrains.Refasmer.Filters.AllowPublicAndInternals"/>, otherwise use <see cref="T:JetBrains.Refasmer.Filters.AllowPublic"/>.
+             </param>
+             <param name="omitNonApiMembers">
+                 <para>Omit private members and types not participating in the public API (will preserve the empty vs
+                 non-empty struct semantics, but might affect the <c>unmanaged</c> struct constraint).</para>
+            
+                 <para>Mandatory if the <paramref name="filter"/> is not passed. Ignored otherwise.</para>
+             </param>
+             <param name="makeMock">
+             Whether to make a mock assembly instead of a reference assembly. A mock assembly throws
+             <see cref="T:System.NotImplementedException"/> in each imported method, while a reference assembly follows the
+             reference assembly specification.
+             </param>
+             <param name="omitReferenceAssemblyAttr">
+             Whether to omit the reference assembly attribute in the generated assembly.
+             </param>
+             <returns>Bytes of the generated assembly.</returns>
+        </member>
+        <member name="M:JetBrains.Refasmer.MetadataImporter.MakeRefasm(System.String,System.String,JetBrains.Refasmer.LoggerBase,System.Nullable{System.Boolean},JetBrains.Refasmer.Filters.IImportFilter,System.Boolean)">
+             <summary>Produces a reference assembly for the passed input.</summary>
+             <param name="inputPath">Path to the input assembly.</param>
+             <param name="outputPath">Path to the output assembly.</param>
+             <param name="logger">Logger to write the process information to.</param>
+             <param name="omitNonApiMembers">
+                 <para>Omit private members and types not participating in the public API (will preserve the empty vs
+                 non-empty struct semantics, but might affect the <c>unmanaged</c> struct constraint).</para>
+            
+                 <para>Mandatory if the <paramref name="filter"/> is not passed. Ignored otherwise.</para>
+             </param>
+             <param name="filter">
+             Filter to apply to the assembly members. If <c>null</c> then will be auto-detected from the assembly
+             contents: for an assembly that has a <see cref="T:System.Runtime.CompilerServices.InternalsVisibleToAttribute"/> applied to it, use
+             <see cref="T:JetBrains.Refasmer.Filters.AllowPublicAndInternals"/>, otherwise use <see cref="T:JetBrains.Refasmer.Filters.AllowPublic"/>.
+             </param>
+             <param name="makeMock">
+             Whether to make a mock assembly instead of a reference assembly. A mock assembly throws
+             <see cref="T:System.NotImplementedException"/> in each imported method, while a reference assembly follows the
+             reference assembly specification.
+             </param>
+             <returns>Bytes of the generated assembly.</returns>
+        </member>
+    </members>
+</doc>
