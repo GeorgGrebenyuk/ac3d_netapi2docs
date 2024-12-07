@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4A5CDA77-6613-4972-9757-FA2BFD725AB0}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>AeccDataShortcutMgd</RootNamespace>
+    <AssemblyName>AeccDataShortcutMgd</AssemblyName>
+    <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Acdbmgd" />
+  </ItemGroup>
+  <ItemGroup>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="$_s__CatchableTypeArray$_extraBytes_16.cs" />
+    <Compile Include="$_s__CatchableTypeArray$_extraBytes_24.cs" />
+    <Compile Include="$_s__RTTIBaseClassArray$_extraBytes_16.cs" />
+    <Compile Include="$_s__RTTIBaseClassArray$_extraBytes_24.cs" />
+    <Compile Include="$_s__RTTIBaseClassArray$_extraBytes_8.cs" />
+    <Compile Include="$_TypeDescriptor$_extraBytes_17.cs" />
+    <Compile Include="$_TypeDescriptor$_extraBytes_20.cs" />
+    <Compile Include="$_TypeDescriptor$_extraBytes_31.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY00$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY00PEB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY00Q6MPEBXXZ.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY01$$CBD.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY01$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY01Q6AXXZ.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY02Q6AXXZ.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0A@P6AHXZ.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0A@P6AXXZ.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0BA@$$CBD.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0BC@$$CBD.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0BE@$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0BF@$$CBD.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0BJ@$$CBD.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0O@$$CB_W.cs" />
+    <Compile Include="-CrtImplementationDetails-\LanguageSupport.cs" />
+    <Compile Include="-CrtImplementationDetails-\ModuleLoadException.cs" />
+    <Compile Include="-CrtImplementationDetails-\ModuleLoadExceptionHandlerException.cs" />
+    <Compile Include="-CrtImplementationDetails-\ModuleUninitializer.cs" />
+    <Compile Include="-CrtImplementationDetails-\Progress.cs" />
+    <Compile Include="-CrtImplementationDetails-\ThisModule.cs" />
+    <Compile Include="-CrtImplementationDetails-\TriBool.cs" />
+    <Compile Include="-Module-.cs" />
+    <Compile Include="Acad.cs" />
+    <Compile Include="AcArray-AcDbObjectId,AcArrayMemCopyReallocator-AcDbObjectId-.cs" />
+    <Compile Include="AcDb.cs" />
+    <Compile Include="AcDbDatabase.cs" />
+    <Compile Include="AcDbHandle.cs" />
+    <Compile Include="AcDbHostApplicationServices.cs" />
+    <Compile Include="AcDbObject.cs" />
+    <Compile Include="AcDbObjectId.cs" />
+    <Compile Include="AcDbSmartObjectPointer-AeccDbEntity,&amp;AeccDbEntity.cs" />
+    <Compile Include="AcRxClass.cs" />
+    <Compile Include="AcRxDynamicLinker.cs" />
+    <Compile Include="AcRxObject.cs" />
+    <Compile Include="AeccDataSharing\AeccAlignmentOps.cs" />
+    <Compile Include="AeccDataSharing\AeccCorridorOps.cs" />
+    <Compile Include="AeccDataSharing\AeccDataObjectCreator.cs" />
+    <Compile Include="AeccDataSharing\AeccDataReferenceFixer.cs" />
+    <Compile Include="AeccDataSharing\AeccDataReferenceFixerContextual.cs" />
+    <Compile Include="AeccDataSharing\AeccDataSharingManager.cs" />
+    <Compile Include="AeccDataSharing\AeccDataSharingUtils.cs" />
+    <Compile Include="AeccDataSharing\AeccPipeNetworkOps.cs" />
+    <Compile Include="AeccDataSharing\AeccPressurePipeNetworkOps.cs" />
+    <Compile Include="AeccDataSharing\AeccProfileOps.cs" />
+    <Compile Include="AeccDataSharing\AeccSampleLineOps.cs" />
+    <Compile Include="AeccDataSharing\AeccShortcutPair.cs" />
+    <Compile Include="AeccDataSharing\AeccSurfaceOps.cs" />
+    <Compile Include="AeccDataSharing\AeccViewFrameGroupOps.cs" />
+    <Compile Include="AeccDataSharing\AeccWorkingFolderConfig.cs" />
+    <Compile Include="AeccDataSharing\Operations.cs" />
+    <Compile Include="AeccDataSharing\RAIIManageAPIImplsDataShortcut.cs" />
+    <Compile Include="AeccDataSharing\ShortcutOpType\Type.cs" />
+    <Compile Include="AeccDataShortcutValue.cs" />
+    <Compile Include="AeccDbEntity.cs" />
+    <Compile Include="AeccDCAPIWrapper.cs" />
+    <Compile Include="AeccFilename.cs" />
+    <Compile Include="AeccFileServices.cs" />
+    <Compile Include="AeccShortcutDepKey.cs" />
+    <Compile Include="AecDbSmartObjectPointer-AeccDbEntity-.cs" />
+    <Compile Include="AecRmCString.cs" />
+    <Compile Include="ATL\CAtlBaseModule.cs" />
+    <Compile Include="ATL\CAtlComModule.cs" />
+    <Compile Include="ATL\CAtlReleaseManagedClassFactories.cs" />
+    <Compile Include="ATL\CSimpleStringT-wchar_t,1-.cs" />
+    <Compile Include="ATL\CStringT-wchar_t,StrTraitMFC_DLL-wchar_t,ATL.cs" />
+    <Compile Include="ATL\IAtlStringMgr.cs" />
+    <Compile Include="ATL\_ATL_OBJMAP_ENTRY110.cs" />
+    <Compile Include="Autodesk\Civil\DataShortcuts\DataShortcuts.cs" />
+    <Compile Include="boost\dynamic_bitset-unsigned long,std.cs" />
+    <Compile Include="DataShortcutAPIException.cs" />
+    <Compile Include="EHExceptionRecord.cs" />
+    <Compile Include="gcroot-System.cs" />
+    <Compile Include="HWND__.cs" />
+    <Compile Include="ICLRRuntimeHost.cs" />
+    <Compile Include="ICorRuntimeHost.cs" />
+    <Compile Include="IDExceptionAPIDataShortcut.cs" />
+    <Compile Include="IUnknown.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReadableAcDbObject-AeccDbEntity,&amp;AeccDbEntity.cs" />
+    <Compile Include="SecurityParams.cs" />
+    <Compile Include="std\-assign@-$basic_string@_WU-$char_traits@\__l2\-lambda_d4301fda4684ac16da26da6c6383f5f5-.cs" />
+    <Compile Include="std\allocator-AeccDataSharing.cs" />
+    <Compile Include="std\allocator-ATL.cs" />
+    <Compile Include="std\allocator-char-.cs" />
+    <Compile Include="std\allocator-int-.cs" />
+    <Compile Include="std\allocator-std.2.cs" />
+    <Compile Include="std\allocator-std.3.cs" />
+    <Compile Include="std\allocator-std.4.cs" />
+    <Compile Include="std\allocator-std.cs" />
+    <Compile Include="std\allocator-wchar_t-.cs" />
+    <Compile Include="std\back_insert_iterator-std.cs" />
+    <Compile Include="std\bad_alloc.cs" />
+    <Compile Include="std\bad_array_new_length.cs" />
+    <Compile Include="std\basic_string-wchar_t,std.cs" />
+    <Compile Include="std\equal_to-void-.cs" />
+    <Compile Include="std\exception.cs" />
+    <Compile Include="std\integral_constant-bool,0-.cs" />
+    <Compile Include="std\integral_constant-bool,1-.cs" />
+    <Compile Include="std\less-void-.cs" />
+    <Compile Include="std\map-AcDbHandle,AcDbHandle,std.cs" />
+    <Compile Include="std\map-AeccDataSharing.cs" />
+    <Compile Include="std\multiset-AeccDataSharing.cs" />
+    <Compile Include="std\pair-AeccDataSharing.cs" />
+    <Compile Include="std\pair-bool,bool-.cs" />
+    <Compile Include="std\pair-int -,int --.cs" />
+    <Compile Include="std\shared_ptr-AeccDataShortcutKey-.cs" />
+    <Compile Include="std\shared_ptr-AeccDataShortcutValue-.cs" />
+    <Compile Include="std\unique_ptr-AeccDataSharing.2.cs" />
+    <Compile Include="std\unique_ptr-AeccDataSharing.3.cs" />
+    <Compile Include="std\unique_ptr-AeccDataSharing.4.cs" />
+    <Compile Include="std\unique_ptr-AeccDataSharing.cs" />
+    <Compile Include="std\vector-AeccDataSharing.cs" />
+    <Compile Include="std\vector-AeccFilename,std.cs" />
+    <Compile Include="std\vector-ATL.cs" />
+    <Compile Include="std\vector-char,std.cs" />
+    <Compile Include="std\vector-int,std.cs" />
+    <Compile Include="std\vector-std.cs" />
+    <Compile Include="std\vector-unsigned long,std.cs" />
+    <Compile Include="std\_Compressed_pair-std.cs" />
+    <Compile Include="std\_Container_base0.cs" />
+    <Compile Include="std\_Ref_count_base.cs" />
+    <Compile Include="std\_String_val-std.cs" />
+    <Compile Include="std\_Tidy_guard-std.2.cs" />
+    <Compile Include="std\_Tidy_guard-std.3.cs" />
+    <Compile Include="std\_Tidy_guard-std.cs" />
+    <Compile Include="std\_Tree_node-AeccDataSharing.cs" />
+    <Compile Include="std\_Tree_node-std.2.cs" />
+    <Compile Include="std\_Tree_node-std.cs" />
+    <Compile Include="std\_Tree_val-std.2.cs" />
+    <Compile Include="std\_Tree_val-std.3.cs" />
+    <Compile Include="std\_Tree_val-std.cs" />
+    <Compile Include="std\_Uninitialized_backout_al-std.2.cs" />
+    <Compile Include="std\_Uninitialized_backout_al-std.3.cs" />
+    <Compile Include="std\_Uninitialized_backout_al-std.4.cs" />
+    <Compile Include="std\_Uninitialized_backout_al-std.cs" />
+    <Compile Include="std\_Vector_const_iterator-std.cs" />
+    <Compile Include="std\_Vector_iterator-std.2.cs" />
+    <Compile Include="std\_Vector_iterator-std.cs" />
+    <Compile Include="std\_Vector_val-std.2.cs" />
+    <Compile Include="std\_Vector_val-std.3.cs" />
+    <Compile Include="std\_Vector_val-std.4.cs" />
+    <Compile Include="std\_Vector_val-std.cs" />
+    <Compile Include="std\_Zero_then_variadic_args_t.cs" />
+    <Compile Include="WritableAcDbObject.cs" />
+    <Compile Include="_com_error.cs" />
+    <Compile Include="_EXCEPTION_POINTERS.cs" />
+    <Compile Include="_GUID.cs" />
+    <Compile Include="_IMAGE_DOS_HEADER.cs" />
+    <Compile Include="_RTL_CRITICAL_SECTION.cs" />
+    <Compile Include="_SECURITY_ATTRIBUTES.cs" />
+    <Compile Include="_s__CatchableType.cs" />
+    <Compile Include="_s__RTTIBaseClassDescriptor.cs" />
+    <Compile Include="_s__RTTIClassHierarchyDescriptor.cs" />
+    <Compile Include="_s__RTTICompleteObjectLocator2.cs" />
+    <Compile Include="_s__ThrowInfo.cs" />
+    <Compile Include="__scrt_native_startup_state.cs" />
+    <Compile Include="__std_exception_data.cs" />
+    <Compile Include="__s_GUID.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AeccDbMgd\AeccDbMgd.csproj">
+      <Project>{4a5cda77-6613-4972-9757-fa2bfd725ab1}</Project>
+      <Name>AeccDbMgd</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

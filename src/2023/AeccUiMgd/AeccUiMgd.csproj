@@ -1,0 +1,446 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4A5CDA77-6613-4972-9757-FA2BFD725AB6}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>AeccUiMgd</RootNamespace>
+    <AssemblyName>AeccUiMgd</AssemblyName>
+    <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="accoremgd" />
+    <Reference Include="Acdbmgd" />
+    <Reference Include="AppHomeInterop" />
+    <Reference Include="System" />
+  </ItemGroup>
+  <ItemGroup>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="$_s__CatchableTypeArray$_extraBytes_24.cs" />
+    <Compile Include="$_s__RTTIBaseClassArray$_extraBytes_16.cs" />
+    <Compile Include="$_s__RTTIBaseClassArray$_extraBytes_24.cs" />
+    <Compile Include="$_s__RTTIBaseClassArray$_extraBytes_8.cs" />
+    <Compile Include="$_TypeDescriptor$_extraBytes_14.cs" />
+    <Compile Include="$_TypeDescriptor$_extraBytes_17.cs" />
+    <Compile Include="$_TypeDescriptor$_extraBytes_19.cs" />
+    <Compile Include="$_TypeDescriptor$_extraBytes_20.cs" />
+    <Compile Include="$_TypeDescriptor$_extraBytes_21.cs" />
+    <Compile Include="$_TypeDescriptor$_extraBytes_23.cs" />
+    <Compile Include="$_TypeDescriptor$_extraBytes_24.cs" />
+    <Compile Include="$_TypeDescriptor$_extraBytes_25.cs" />
+    <Compile Include="$_TypeDescriptor$_extraBytes_27.cs" />
+    <Compile Include="$_TypeDescriptor$_extraBytes_28.cs" />
+    <Compile Include="$_TypeDescriptor$_extraBytes_31.cs" />
+    <Compile Include="$_TypeDescriptor$_extraBytes_33.cs" />
+    <Compile Include="$_TypeDescriptor$_extraBytes_34.cs" />
+    <Compile Include="$_TypeDescriptor$_extraBytes_36.cs" />
+    <Compile Include="$_TypeDescriptor$_extraBytes_39.cs" />
+    <Compile Include="$_TypeDescriptor$_extraBytes_41.cs" />
+    <Compile Include="$_TypeDescriptor$_extraBytes_43.cs" />
+    <Compile Include="$_TypeDescriptor$_extraBytes_67.cs" />
+    <Compile Include="$_TypeDescriptor$_extraBytes_75.cs" />
+    <Compile Include="$_TypeDescriptor$_extraBytes_77.cs" />
+    <Compile Include="$_TypeDescriptor$_extraBytes_79.cs" />
+    <Compile Include="$_TypeDescriptor$_extraBytes_85.cs" />
+    <Compile Include="$_TypeDescriptor$_extraBytes_86.cs" />
+    <Compile Include="-A0x0f89f274\__clr_placement_new_t.cs" />
+    <Compile Include="-A0x8e6b4504\__clr_placement_new_t.cs" />
+    <Compile Include="-A0xfefecf0d\__clr_placement_new_t.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY00$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY00Q6MPEBXXZ.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY01$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY01PEB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY01Q6AXXZ.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY02$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY02Q6AXXZ.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY03Q6AXXZ.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY03W4PaletteType@AeccUiMgd@Civil@Autodesk@@.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY04$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY05$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY06$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY07$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY07Q6AXXZ.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY08$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY08Q6AXXZ.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0A@P6AHXZ.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0A@P6AXXZ.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0BA@$$CBD.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0BA@$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0BB@$$CBD.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0BB@$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0BC@$$CBD.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0BC@$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0BD@$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0BE@$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0BF@$$CBD.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0BF@$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0BG@$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0BH@$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0BI@$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0BJ@$$CBD.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0BJ@$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0BK@$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0BL@$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0BP@$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0CC@$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0CF@$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0CI@$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0CJ@$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0L@$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0M@$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0N@$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0O@$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0P@$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0P@Q6AXXZ.cs" />
+    <Compile Include="-CppImplementationDetails-\$PTMType$P8AeccUiPressureNetworkLayoutSettings@@EAAAEBVAeccP.cs" />
+    <Compile Include="-CppImplementationDetails-\$PTMType$P8AeccUiPressureNetworkLayoutSettings@@EAAXAEBVAecc.cs" />
+    <Compile Include="-CppImplementationDetails-\$PTMType$P8AeccUiPressureNetworkLayoutSettings@@EAA_NVAcDbOb.cs" />
+    <Compile Include="-CppImplementationDetails-\$PTMType$P8AeccUiPressureNetworkLayoutSettings@@EBA-AVAcDbOb.cs" />
+    <Compile Include="-CrtImplementationDetails-\LanguageSupport.cs" />
+    <Compile Include="-CrtImplementationDetails-\ModuleLoadException.cs" />
+    <Compile Include="-CrtImplementationDetails-\ModuleLoadExceptionHandlerException.cs" />
+    <Compile Include="-CrtImplementationDetails-\ModuleUninitializer.cs" />
+    <Compile Include="-CrtImplementationDetails-\Progress.cs" />
+    <Compile Include="-CrtImplementationDetails-\ThisModule.cs" />
+    <Compile Include="-CrtImplementationDetails-\TriBool.cs" />
+    <Compile Include="-Module-.cs" />
+    <Compile Include="Acad.cs" />
+    <Compile Include="AcAp.cs" />
+    <Compile Include="AcApDocManager.cs" />
+    <Compile Include="AcApDocument.cs" />
+    <Compile Include="AcArray-AcDbObjectId,AcArrayMemCopyReallocator-AcDbObjectId-.cs" />
+    <Compile Include="AcCmColor.cs" />
+    <Compile Include="AcDb.cs" />
+    <Compile Include="AcDbDatabase.cs" />
+    <Compile Include="AcDbHostApplicationServices.cs" />
+    <Compile Include="AcDbObject.cs" />
+    <Compile Include="AcDbObjectId.cs" />
+    <Compile Include="AcDbObjectPointer-AcDbVisualStyle-.cs" />
+    <Compile Include="AcDbObjectPointer-AeccDbAlignment-.cs" />
+    <Compile Include="AcDbObjectPointer-AeccDbCorridor-.cs" />
+    <Compile Include="AcDbObjectPointer-AeccDbGraphProfile-.cs" />
+    <Compile Include="AcDbObjectPointerBase-AcDbVisualStyle-.cs" />
+    <Compile Include="AcDbObjectPointerBase-AeccDbAlignment-.cs" />
+    <Compile Include="AcDbObjectPointerBase-AeccDbCorridor-.cs" />
+    <Compile Include="AcDbObjectPointerBase-AeccDbGraphProfile-.cs" />
+    <Compile Include="AcDbSmartObjectPointer-AcDbObject,&amp;AcDbObject.cs" />
+    <Compile Include="AcDbSoftPointerId.cs" />
+    <Compile Include="AcDbVisualStyle.cs" />
+    <Compile Include="AcGeTol.cs" />
+    <Compile Include="AcGiVisualStyle.cs" />
+    <Compile Include="AcRxClass.cs" />
+    <Compile Include="AcRxDictionary.cs" />
+    <Compile Include="AcRxDynamicLinker.cs" />
+    <Compile Include="AcRxObject.cs" />
+    <Compile Include="AdIntImgServices.cs" />
+    <Compile Include="AecAppEditorServices.cs" />
+    <Compile Include="AecBaseServices.cs" />
+    <Compile Include="Aecc.cs" />
+    <Compile Include="AeccAcadSelSet.cs" />
+    <Compile Include="AeccAmbientProperties.cs" />
+    <Compile Include="AeccAttribute.cs" />
+    <Compile Include="AeccAttributeBin.cs" />
+    <Compile Include="AeccAttributeTypeInfo.cs" />
+    <Compile Include="AeccAttributeTypeInfoAngle.cs" />
+    <Compile Include="AeccAttributeTypeInfoDistance.cs" />
+    <Compile Include="AeccAttributeTypeInfoElevation.cs" />
+    <Compile Include="AeccAttributeTypeInfoStation.cs" />
+    <Compile Include="AeccAttributeTypeInfoVelocity.cs" />
+    <Compile Include="AeccBaseServices.cs" />
+    <Compile Include="AeccCachedService-AeccBaseServices-.cs" />
+    <Compile Include="AeccCachedService-AeccLODService-.cs" />
+    <Compile Include="AeccCachedService-AeccUiLandServices-.cs" />
+    <Compile Include="AeccCachedService-AeccUiRoadwayServices-.cs" />
+    <Compile Include="AeccCloudDrawingMap.cs" />
+    <Compile Include="AeccCmdInfo.cs" />
+    <Compile Include="AeccCtBar.cs" />
+    <Compile Include="AeccDataSharing\AeccDataSharingManager.cs" />
+    <Compile Include="AeccDataShortcutKey.cs" />
+    <Compile Include="AeccDbAlignment.cs" />
+    <Compile Include="AeccDbCorridor.cs" />
+    <Compile Include="AeccDbEntity.cs" />
+    <Compile Include="AeccDbGraph.cs" />
+    <Compile Include="AeccDbGraphProfile.cs" />
+    <Compile Include="AeccDbObjectPointer-AcDbObject-.cs" />
+    <Compile Include="AeccDbObjectPointer-AeccDbCorridor-.cs" />
+    <Compile Include="AeccDbObjectPointer-AeccDbEntity-.cs" />
+    <Compile Include="AeccDbObjectPointer-AeccViewportEditorData-.cs" />
+    <Compile Include="AeccDbTreeOid.cs" />
+    <Compile Include="AeccDCAPIWrapper.cs" />
+    <Compile Include="AeccDocumentDataAeccUiLand.cs" />
+    <Compile Include="AeccDocumentDataAeccUiPressurePipes.cs" />
+    <Compile Include="AeccDocumentDataAeccUiRoadway.cs" />
+    <Compile Include="AeccDwgXrefs.cs" />
+    <Compile Include="AeccEntityImageCapture.cs" />
+    <Compile Include="AeccEventFeatureType.cs" />
+    <Compile Include="AeccEventInfo.cs" />
+    <Compile Include="AeccEventType.cs" />
+    <Compile Include="AeccLODReactor.cs" />
+    <Compile Include="AeccLODService.cs" />
+    <Compile Include="AeccPltEvents.cs" />
+    <Compile Include="AeccPressurePart.cs" />
+    <Compile Include="AeccQssSimpleQuery.cs" />
+    <Compile Include="AeccSettings\KeyPathType.cs" />
+    <Compile Include="AeccSettings\SearchFlags.cs" />
+    <Compile Include="AeccUiBarCorridorSectionViewParamEditor.cs" />
+    <Compile Include="AeccUiCmd.cs" />
+    <Compile Include="AeccUiCmdBinding.cs" />
+    <Compile Include="AeccUiCmdSubAssembly.cs" />
+    <Compile Include="AeccUiDriveTool.cs" />
+    <Compile Include="AeccUiDrive\DrivePathType.cs" />
+    <Compile Include="AeccUiLandServices.cs" />
+    <Compile Include="AeccUiPressureAppurtenanceEditor.cs" />
+    <Compile Include="AeccUiPressureFittingEditor.cs" />
+    <Compile Include="AeccUiPressureNetworkLayoutSettings.cs" />
+    <Compile Include="AeccUiPressurePipeEditor.cs" />
+    <Compile Include="AeccUiPromptCorridorNewRehabRegion.cs" />
+    <Compile Include="AeccUiRoadwayServices.cs" />
+    <Compile Include="AeccUiScFxAlignment.cs" />
+    <Compile Include="AeccUiScFxEntity.cs" />
+    <Compile Include="AeccUiScFxEntityItem.cs" />
+    <Compile Include="AeccUiScFxPressurePartList.cs" />
+    <Compile Include="AeccUiScFxSurface.cs" />
+    <Compile Include="AeccUnitBase.cs" />
+    <Compile Include="AeccUserParam.cs" />
+    <Compile Include="AeccViewportEditorData.cs" />
+    <Compile Include="Aecc_details\AeccDbObjectPointer.cs" />
+    <Compile Include="AecDbObjectPointer-AcDbVisualStyle-.cs" />
+    <Compile Include="AecDbObjectPointer-AeccDbAlignment-.cs" />
+    <Compile Include="AecDbObjectPointer-AeccDbCorridor-.cs" />
+    <Compile Include="AecDbObjectPointer-AeccDbGraphProfile-.cs" />
+    <Compile Include="AecDbSmartObjectPointer-AcDbObject-.cs" />
+    <Compile Include="AecObjRelGraph.cs" />
+    <Compile Include="AecRmCString.cs" />
+    <Compile Include="AecRmCStringArray.cs" />
+    <Compile Include="AecRmResource.cs" />
+    <Compile Include="AecUiPr.cs" />
+    <Compile Include="AecUnit.cs" />
+    <Compile Include="ATL\CA2WEX-128-.cs" />
+    <Compile Include="ATL\CAtlBaseModule.cs" />
+    <Compile Include="ATL\CAtlComModule.cs" />
+    <Compile Include="ATL\CAtlReleaseManagedClassFactories.cs" />
+    <Compile Include="ATL\CSimpleStringT-wchar_t,1-.cs" />
+    <Compile Include="ATL\CStringT-wchar_t,StrTraitMFC_DLL-wchar_t,ATL.cs" />
+    <Compile Include="ATL\IAtlStringMgr.cs" />
+    <Compile Include="ATL\_ATL_OBJMAP_ENTRY110.cs" />
+    <Compile Include="Autodesk\Civil\AeccObjectExport\ExportSaveFormat.cs" />
+    <Compile Include="Autodesk\Civil\AeccObjectExport\Xref.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\CloudDrawingMap.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\CoordinateTracker.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\CorridorSectionParameterEditor.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\DataSharingUtils.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\DriveData.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\DriveDataUtils.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\EntityImageCapture.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\Event.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\EventViewer.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\ExportFeatureLineType.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\ExportSaveFormat.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\FeatureToggles.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\ImageFormatType.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\LevelOfDetailData.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\ObjectExploder.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\PaletteEventArgs.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\PaletteSet.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\PaletteSetEventArgs.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\PaletteType.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\PressurePipes\AngleUnitConverter.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\PressurePipes\CoverUnitConverter.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\PressurePipes\IconHelper.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\PressurePipes\LayoutCommandStates.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\PressurePipes\LayoutData.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\PressurePipes\LayoutListData.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\PressurePipes\PanoramaStates.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\PressurePipes\PressureListData.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\PressurePipes\PressurePartData.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\PressurePipes\UnmanagedAxUiPltSetPanoramaEventHandler.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\PressurePipes\UnmanagedLayoutSettingsObserver.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\Roadway\CorridorBaseline.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\Roadway\CorridorSectionEditorData.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\Roadway\CorridorSectionEditorDataEventArgs.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\Roadway\CorridorStation.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\Roadway\DataEventType.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\Roadway\PrompSelectNewRehabRegions.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\Roadway\StationFilterType.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\Roadway\StationType.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\Roadway\SubassemblyOperationType.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\Roadway\UiCmdSubAssembly.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\Roadway\UnmanagedCorridorSectionEditorDataEventHandler.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\Survey\DataEventType.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\Survey\SurveyQuery.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\Survey\SurveyQueryData.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\Survey\SurveyQueryDataEventArgs.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\Survey\UnmanagedSurveyQueryDataEventHandler.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\Toolspace.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\TrCmd\TransparentCmdDataPT.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\TrCmd\TransparentCmdDataPTEventArgs.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\TrCmd\TransparentCmdDataSO.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\TrCmd\TransparentCmdDataSOEventArgs.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\TrCmd\TrCmdDataPTEventType.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\TrCmd\TrCmdDataSOEventType.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\TrCmd\UnmanagedTransparentCmdDataEventHandler.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\TrCmd\UnmanagedTransparentCmdDataPTEventHandler.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\UnmanagedAxUiPaletteSetEventHandler.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\WebServiceUtils.cs" />
+    <Compile Include="Autodesk\Civil\AeccUiMgd\XREFOption.cs" />
+    <Compile Include="AxUiPlt.cs" />
+    <Compile Include="AxUiPltPanoramaVista.cs" />
+    <Compile Include="AxUiPltSet.cs" />
+    <Compile Include="AxUiPltSetPanorama.cs" />
+    <Compile Include="AxUiPltSetToolspace.cs" />
+    <Compile Include="CAdUiPalette.cs" />
+    <Compile Include="CMDIFrameWnd.cs" />
+    <Compile Include="CRuntimeClass.cs" />
+    <Compile Include="CView.cs" />
+    <Compile Include="CWnd.cs" />
+    <Compile Include="DbObjectPointer-AcDbObject,0,0-.cs" />
+    <Compile Include="DbObjectPointer-AeccDbCorridor,0,0-.cs" />
+    <Compile Include="DbObjectPointer-AeccDbEntity,0,0-.cs" />
+    <Compile Include="DbObjectPointer-AeccViewportEditorData,0,0-.cs" />
+    <Compile Include="DbObjectReader-AcDbObject,0-.cs" />
+    <Compile Include="DbObjectReader-AeccDbCorridor,0-.cs" />
+    <Compile Include="DbObjectReader-AeccDbEntity,0-.cs" />
+    <Compile Include="DbObjectReader-AeccViewportEditorData,0-.cs" />
+    <Compile Include="EHExceptionRecord.cs" />
+    <Compile Include="gcroot-Autodesk.2.cs" />
+    <Compile Include="gcroot-Autodesk.3.cs" />
+    <Compile Include="gcroot-Autodesk.4.cs" />
+    <Compile Include="gcroot-Autodesk.5.cs" />
+    <Compile Include="gcroot-Autodesk.6.cs" />
+    <Compile Include="gcroot-Autodesk.7.cs" />
+    <Compile Include="gcroot-Autodesk.8.cs" />
+    <Compile Include="gcroot-Autodesk.9.cs" />
+    <Compile Include="gcroot-Autodesk.cs" />
+    <Compile Include="gcroot-System.cs" />
+    <Compile Include="HICON__.cs" />
+    <Compile Include="HWND__.cs" />
+    <Compile Include="IAeccCorridorSectionEditorDataEvents.cs" />
+    <Compile Include="IAeccQssRibbonDataEvents.cs" />
+    <Compile Include="IAeccTransparentCmdDataEvents.cs" />
+    <Compile Include="IAeccUiDriveObserver.cs" />
+    <Compile Include="IAeccUiLayoutSettingsObserver.cs" />
+    <Compile Include="IAxUiPltSetEvents.cs" />
+    <Compile Include="ICLRRuntimeHost.cs" />
+    <Compile Include="ICorRuntimeHost.cs" />
+    <Compile Include="IUnknown.cs" />
+    <Compile Include="LayoutSettingsChangeType.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReadableAcDbObject-AcDbObject,&amp;AcDbObject.cs" />
+    <Compile Include="resbuf.cs" />
+    <Compile Include="std\-assign@-$basic_string@_WU-$char_traits@\__l2\-lambda_d4301fda4684ac16da26da6c6383f5f5-.cs" />
+    <Compile Include="std\allocator-AecRmCString-.cs" />
+    <Compile Include="std\allocator-double-.cs" />
+    <Compile Include="std\allocator-std.2.cs" />
+    <Compile Include="std\allocator-std.cs" />
+    <Compile Include="std\allocator-wchar_t-.cs" />
+    <Compile Include="std\bad_alloc.cs" />
+    <Compile Include="std\bad_array_new_length.cs" />
+    <Compile Include="std\basic_string-wchar_t,std.cs" />
+    <Compile Include="std\exception.cs" />
+    <Compile Include="std\less-AecRmCString-.cs" />
+    <Compile Include="std\less-std.cs" />
+    <Compile Include="std\map-std.cs" />
+    <Compile Include="std\pair-AcArray-AcDbObjectId,AcArrayMemCopyReallocator-AcDbObje.cs" />
+    <Compile Include="std\pair-double,double-.cs" />
+    <Compile Include="std\pair-std.2.cs" />
+    <Compile Include="std\pair-std.3.cs" />
+    <Compile Include="std\pair-std.4.cs" />
+    <Compile Include="std\pair-std.cs" />
+    <Compile Include="std\piecewise_construct_t.cs" />
+    <Compile Include="std\reverse_iterator-std.cs" />
+    <Compile Include="std\set-AecRmCString,std.cs" />
+    <Compile Include="std\tuple--.cs" />
+    <Compile Include="std\tuple-std.cs" />
+    <Compile Include="std\unique_ptr-AeccAttributeTypeInfo,std.cs" />
+    <Compile Include="std\vector-AcDbObjectId,std.cs" />
+    <Compile Include="std\vector-AcDbSoftPointerId,std.cs" />
+    <Compile Include="std\vector-AecRmCString,std.cs" />
+    <Compile Include="std\vector-double,std.cs" />
+    <Compile Include="std\vector-std.2.cs" />
+    <Compile Include="std\vector-std.3.cs" />
+    <Compile Include="std\vector-std.cs" />
+    <Compile Include="std\_Alloc_construct_ptr-std.2.cs" />
+    <Compile Include="std\_Alloc_construct_ptr-std.cs" />
+    <Compile Include="std\_Compressed_pair-std.cs" />
+    <Compile Include="std\_Container_base0.cs" />
+    <Compile Include="std\_String_val-std.cs" />
+    <Compile Include="std\_Tidy_guard-std.2.cs" />
+    <Compile Include="std\_Tidy_guard-std.cs" />
+    <Compile Include="std\_Tree-std.2.cs" />
+    <Compile Include="std\_Tree-std.cs" />
+    <Compile Include="std\_Tree_const_iterator-std.cs" />
+    <Compile Include="std\_Tree_find_hint_result-std.cs" />
+    <Compile Include="std\_Tree_find_result-std.2.cs" />
+    <Compile Include="std\_Tree_find_result-std.cs" />
+    <Compile Include="std\_Tree_head_scoped_ptr-std.cs" />
+    <Compile Include="std\_Tree_id-std.2.cs" />
+    <Compile Include="std\_Tree_id-std.cs" />
+    <Compile Include="std\_Tree_node-AecRmCString,void --.cs" />
+    <Compile Include="std\_Tree_node-std.cs" />
+    <Compile Include="std\_Tree_temp_node-std.2.cs" />
+    <Compile Include="std\_Tree_temp_node-std.cs" />
+    <Compile Include="std\_Tree_temp_node_alloc-std.2.cs" />
+    <Compile Include="std\_Tree_temp_node_alloc-std.cs" />
+    <Compile Include="std\_Tree_unchecked_const_iterator-std.2.cs" />
+    <Compile Include="std\_Tree_unchecked_const_iterator-std.cs" />
+    <Compile Include="std\_Tree_unchecked_iterator-std.cs" />
+    <Compile Include="std\_Tree_val-std.2.cs" />
+    <Compile Include="std\_Tree_val-std.cs" />
+    <Compile Include="std\_Uninitialized_backout_al-std.cs" />
+    <Compile Include="std\_Vector_const_iterator-std.2.cs" />
+    <Compile Include="std\_Vector_const_iterator-std.3.cs" />
+    <Compile Include="std\_Vector_const_iterator-std.4.cs" />
+    <Compile Include="std\_Vector_const_iterator-std.5.cs" />
+    <Compile Include="std\_Vector_const_iterator-std.cs" />
+    <Compile Include="std\_Vector_iterator-std.2.cs" />
+    <Compile Include="std\_Vector_iterator-std.3.cs" />
+    <Compile Include="std\_Vector_iterator-std.cs" />
+    <Compile Include="UnmanagedDriveDataObserver.cs" />
+    <Compile Include="UnmanagedLevelOfDetailDataObserver.cs" />
+    <Compile Include="WritableAcDbObject.cs" />
+    <Compile Include="_com_error.cs" />
+    <Compile Include="_EXCEPTION_POINTERS.cs" />
+    <Compile Include="_GUID.cs" />
+    <Compile Include="_IMAGE_DOS_HEADER.cs" />
+    <Compile Include="_RTL_CRITICAL_SECTION.cs" />
+    <Compile Include="_s__CatchableType.cs" />
+    <Compile Include="_s__RTTIBaseClassDescriptor.cs" />
+    <Compile Include="_s__RTTIClassHierarchyDescriptor.cs" />
+    <Compile Include="_s__RTTICompleteObjectLocator2.cs" />
+    <Compile Include="_s__ThrowInfo.cs" />
+    <Compile Include="__scrt_native_startup_state.cs" />
+    <Compile Include="__std_exception_data.cs" />
+    <Compile Include="__s_GUID.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AeccPressurePipesMgd\AeccPressurePipesMgd.csproj">
+      <Project>{4a5cda77-6613-4972-9757-fa2bfd725ab5}</Project>
+      <Name>AeccPressurePipesMgd</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4A5CDA77-6613-4972-9757-FA2BFD725AB2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>AeccHydroCalcsMgd</RootNamespace>
+    <AssemblyName>AeccHydroCalcsMgd</AssemblyName>
+    <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="$_s__CatchableTypeArray$_extraBytes_24.cs" />
+    <Compile Include="$_s__RTTIBaseClassArray$_extraBytes_16.cs" />
+    <Compile Include="$_s__RTTIBaseClassArray$_extraBytes_24.cs" />
+    <Compile Include="$_s__RTTIBaseClassArray$_extraBytes_8.cs" />
+    <Compile Include="$_TypeDescriptor$_extraBytes_20.cs" />
+    <Compile Include="$_TypeDescriptor$_extraBytes_31.cs" />
+    <Compile Include="$_TypeDescriptor$_extraBytes_48.cs" />
+    <Compile Include="$_TypeDescriptor$_extraBytes_53.cs" />
+    <Compile Include="$_TypeDescriptor$_extraBytes_55.cs" />
+    <Compile Include="$_TypeDescriptor$_extraBytes_59.cs" />
+    <Compile Include="$_TypeDescriptor$_extraBytes_64.cs" />
+    <Compile Include="$_TypeDescriptor$_extraBytes_67.cs" />
+    <Compile Include="$_TypeDescriptor$_extraBytes_71.cs" />
+    <Compile Include="-A0x1b0fe0b9\LocalAssemblyReslover.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY00$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY00Q6MPEBXXZ.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY01$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY01Q6AXXZ.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY02Q6AXXZ.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY03Q6AXXZ.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY06$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY09$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0A@P6AHXZ.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0A@P6AXXZ.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0BA@$$CBD.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0BB@$$CBD.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0BB@$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0BC@$$CBD.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0BD@$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0BF@$$CBD.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0BF@$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0BH@$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0BK@$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0O@$$CB_W.cs" />
+    <Compile Include="-CppImplementationDetails-\$ArrayType$$$BY0P@$$CB_W.cs" />
+    <Compile Include="-CrtImplementationDetails-\LanguageSupport.cs" />
+    <Compile Include="-CrtImplementationDetails-\ModuleLoadException.cs" />
+    <Compile Include="-CrtImplementationDetails-\ModuleLoadExceptionHandlerException.cs" />
+    <Compile Include="-CrtImplementationDetails-\ModuleUninitializer.cs" />
+    <Compile Include="-CrtImplementationDetails-\Progress.cs" />
+    <Compile Include="-CrtImplementationDetails-\ThisModule.cs" />
+    <Compile Include="-CrtImplementationDetails-\TriBool.cs" />
+    <Compile Include="-Module-.cs" />
+    <Compile Include="Autodesk\Civil\HydroCalcsMgd\AeccChannelFlowData.cs" />
+    <Compile Include="Autodesk\Civil\HydroCalcsMgd\AeccFlowData.cs" />
+    <Compile Include="Autodesk\Civil\HydroCalcsMgd\AeccHydrologyCalculations.cs" />
+    <Compile Include="Autodesk\Civil\HydroCalcsMgd\AeccHydroProperties.cs" />
+    <Compile Include="Autodesk\Civil\HydroCalcsMgd\AeccIDFData.cs" />
+    <Compile Include="Autodesk\Civil\HydroCalcsMgd\AeccShallowConcentratedFlowData.cs" />
+    <Compile Include="Autodesk\Civil\HydroCalcsMgd\AeccSheetFlowData.cs" />
+    <Compile Include="Autodesk\Civil\HydroCalcsMgd\AeccStatisticalCalculations.cs" />
+    <Compile Include="Autodesk\Civil\HydroCalcsMgd\AeccTimeOfConcentration.cs" />
+    <Compile Include="Autodesk\Civil\HydroCalcsMgd\AeccTimeOfConcentration_TR55.cs" />
+    <Compile Include="Autodesk\Civil\HydroCalcsMgd\AeccTimeOfConcentration_UserDefined.cs" />
+    <Compile Include="Autodesk\Civil\HydroCalcsMgd\eTimeOfConcentrationCalculationMethod.cs" />
+    <Compile Include="Autodesk\Civil\HydroCalcsMgd\eTR55FlowSegmentType.cs" />
+    <Compile Include="Autodesk\Civil\HydroCalcsMgd\eUnits.cs" />
+    <Compile Include="Autodesk\Civil\HydroCalcsMgd\UnitSettings.cs" />
+    <Compile Include="EHExceptionRecord.cs" />
+    <Compile Include="gcroot-System.cs" />
+    <Compile Include="ICLRRuntimeHost.cs" />
+    <Compile Include="ICorRuntimeHost.cs" />
+    <Compile Include="IUnknown.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="std\-append@-$basic_string@_WU-$char_traits@\__l2\-lambda_3ca51f66a9d03df3cf21518bbff746cd-.cs" />
+    <Compile Include="std\-assign@-$basic_string@_WU-$char_traits@\__l2\-lambda_d4301fda4684ac16da26da6c6383f5f5-.cs" />
+    <Compile Include="std\allocator-Autodesk.2.cs" />
+    <Compile Include="std\allocator-Autodesk.cs" />
+    <Compile Include="std\allocator-double-.cs" />
+    <Compile Include="std\allocator-std.2.cs" />
+    <Compile Include="std\allocator-std.3.cs" />
+    <Compile Include="std\allocator-std.cs" />
+    <Compile Include="std\allocator-wchar_t-.cs" />
+    <Compile Include="std\bad_alloc.cs" />
+    <Compile Include="std\bad_array_new_length.cs" />
+    <Compile Include="std\basic_string-wchar_t,std.cs" />
+    <Compile Include="std\exception.cs" />
+    <Compile Include="std\integral_constant-bool,1-.cs" />
+    <Compile Include="std\map-double,double,std.cs" />
+    <Compile Include="std\map-double,std.cs" />
+    <Compile Include="std\map-unsigned int,Autodesk.cs" />
+    <Compile Include="std\pair-double const ,double-.cs" />
+    <Compile Include="std\pair-double const ,std.cs" />
+    <Compile Include="std\pair-double,double-.cs" />
+    <Compile Include="std\pair-double,std.cs" />
+    <Compile Include="std\pair-std.2.cs" />
+    <Compile Include="std\pair-std.3.cs" />
+    <Compile Include="std\pair-std.cs" />
+    <Compile Include="std\vector-Autodesk.2.cs" />
+    <Compile Include="std\vector-Autodesk.3.cs" />
+    <Compile Include="std\vector-Autodesk.cs" />
+    <Compile Include="std\vector-double,std.cs" />
+    <Compile Include="std\vector-std.cs" />
+    <Compile Include="std\_Alloc_construct_ptr-std.2.cs" />
+    <Compile Include="std\_Alloc_construct_ptr-std.cs" />
+    <Compile Include="std\_Alloc_temporary-std.cs" />
+    <Compile Include="std\_Compressed_pair-std.cs" />
+    <Compile Include="std\_String_val-std.cs" />
+    <Compile Include="std\_Tree-std.2.cs" />
+    <Compile Include="std\_Tree-std.cs" />
+    <Compile Include="std\_Tree_const_iterator-std.2.cs" />
+    <Compile Include="std\_Tree_const_iterator-std.cs" />
+    <Compile Include="std\_Tree_find_result-std.2.cs" />
+    <Compile Include="std\_Tree_find_result-std.cs" />
+    <Compile Include="std\_Tree_head_scoped_ptr-std.cs" />
+    <Compile Include="std\_Tree_id-std.2.cs" />
+    <Compile Include="std\_Tree_id-std.cs" />
+    <Compile Include="std\_Tree_iterator-std.2.cs" />
+    <Compile Include="std\_Tree_iterator-std.cs" />
+    <Compile Include="std\_Tree_node-std.2.cs" />
+    <Compile Include="std\_Tree_node-std.3.cs" />
+    <Compile Include="std\_Tree_node-std.cs" />
+    <Compile Include="std\_Tree_temp_node-std.2.cs" />
+    <Compile Include="std\_Tree_temp_node-std.cs" />
+    <Compile Include="std\_Tree_temp_node_alloc-std.2.cs" />
+    <Compile Include="std\_Tree_temp_node_alloc-std.cs" />
+    <Compile Include="std\_Tree_unchecked_const_iterator-std.2.cs" />
+    <Compile Include="std\_Tree_unchecked_const_iterator-std.cs" />
+    <Compile Include="std\_Tree_val-std.2.cs" />
+    <Compile Include="std\_Tree_val-std.3.cs" />
+    <Compile Include="std\_Tree_val-std.cs" />
+    <Compile Include="std\_Vector_const_iterator-std.2.cs" />
+    <Compile Include="std\_Vector_const_iterator-std.cs" />
+    <Compile Include="std\_Vector_iterator-std.2.cs" />
+    <Compile Include="std\_Vector_iterator-std.cs" />
+    <Compile Include="std\_Vector_val-std.cs" />
+    <Compile Include="_EXCEPTION_POINTERS.cs" />
+    <Compile Include="_GUID.cs" />
+    <Compile Include="_s__CatchableType.cs" />
+    <Compile Include="_s__RTTIBaseClassDescriptor.cs" />
+    <Compile Include="_s__RTTIClassHierarchyDescriptor.cs" />
+    <Compile Include="_s__RTTICompleteObjectLocator2.cs" />
+    <Compile Include="_s__ThrowInfo.cs" />
+    <Compile Include="__scrt_native_startup_state.cs" />
+    <Compile Include="__std_exception_data.cs" />
+    <Compile Include="__s_GUID.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
