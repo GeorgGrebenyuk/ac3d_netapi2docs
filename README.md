@@ -4,6 +4,8 @@ The help documentation for AutoCAD Civil 3D .NET API (create from product's dll 
 To show generated online-docs visit [page](https://georggrebenyuk.github.io/ac3d_netapi2docs/docs/docs_index.html).
 To show local-documentation (\*.CHM) look folder `docs_chm`.
 
+To show original documentation as in web-view look [here](https://drive.google.com/drive/folders/1sGKqsnjDdIaWVv900J2g848IfqNAR792), it's material from [here](https://github.com/GeorgGrebenyuk/AutodeskOnlineHelp2Offline)
+
 # The structire of repo
 
 -`docs`: directory with generated HTML-help via Doxygen;
